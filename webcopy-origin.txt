@@ -1,0 +1,2572 @@
+Uri: https://assets-pw.pixieset.com/assets/client/css/themes/theme_4.v-1ee32023.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\css\themes\theme_4.v-1ee32023.css
+Content Type: text/css
+
+Uri: https://assets-pw.pixieset.com/assets/client/js/index.v-7029b0d8.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\js\index.v-7029b0d8.js
+Content Type: application/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/client/js/init-pw.v-b7494d2d.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\js\init-pw.v-b7494d2d.js
+Content Type: application/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/client/js/manifest.v-07f2ecbd.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\js\manifest.v-07f2ecbd.js
+Content Type: application/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/client/js/themes/theme_4.v-f31e3b21.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\js\themes\theme_4.v-f31e3b21.js
+Content Type: application/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/client/js/vendor.v-86dd7af9.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\client\js\vendor.v-86dd7af9.js
+Content Type: application/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/flex-builder/static/media/fb-icons-client.v-2a64e3d5.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-builder\static\media\fb-icons-client.v-2a64e3d5.ttf
+Content Type: font/ttf
+
+Uri: https://assets-pw.pixieset.com/assets/flex-builder/static/media/fb-icons-client.v-43f7fe68.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-builder\static\media\fb-icons-client.v-43f7fe68.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-pw.pixieset.com/assets/flex-builder/static/media/fb-icons-client.v-812bd932.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-builder\static\media\fb-icons-client.v-812bd932.woff
+Content Type: font/woff
+
+Uri: https://assets-pw.pixieset.com/assets/flex-builder/static/media/fb-icons-client.v-ec2ba5e0.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-builder\static\media\fb-icons-client.v-ec2ba5e0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets-pw.pixieset.com/assets/flex-client/flex-main-client.v-607cb642.min.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-client\flex-main-client.v-607cb642.min.js
+Content Type: text/javascript
+
+Uri: https://assets-pw.pixieset.com/assets/flex-client/static/css/flex-main.v-ea170024.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\assets\flex-client\static\css\flex-main.v-ea170024.css
+Content Type: text/css
+
+Uri: https://assets-pw.pixieset.com/images/assets/client/images/vendor/photoswipe/dist/default-skin/default-skin.png?0ff4d62150facee6b7dec616100ad3da
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets\client\images\vendor\photoswipe\dist\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://assets-pw.pixieset.com/images/assets/client/images/vendor/photoswipe/dist/default-skin/default-skin.svg?f64c3af3d0d25b9e4e003a8c03e4f70a
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets\client\images\vendor\photoswipe\dist\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-pw.pixieset.com/images/assets/client/images/vendor/photoswipe/dist/default-skin/preloader.gif?14d740b6ee64510747b03b411d46f200
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets\client\images\vendor\photoswipe\dist\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://assets.pixieset.com/images/site/checkout-applepay-black.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\site\checkout-applepay-black.png
+Content Type: image/png
+
+Uri: https://assets.pixieset.com/images/site/crop_lines.gif
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\site\crop_lines.gif
+Content Type: image/gif
+
+Uri: https://assets.pixieset.com/images/site/loader_dark.gif
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\site\loader_dark.gif
+Content Type: image/gif
+
+Uri: https://assets.pixieset.com/images/site/loader_light.gif
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\site\loader_light.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\modernizr\2.8.3\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/1.1.0/normalize.min.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\normalize\1.1.0\normalize.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\2.3.1\css\bootstrap-responsive.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\2.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/img/glyphicons-halflings-white.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\2.3.1\img\glyphicons-halflings-white.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/img/glyphicons-halflings.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\2.3.1\img\glyphicons-halflings.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\2.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\ajax\libs\twitter-bootstrap\4.3.1\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://farkastimiphotography.mypixieset.com/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\index.htm
+Content Type: text/html
+
+Uri: https://farkastimiphotography.mypixieset.com/galerija-slik/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\galerija-slik\index.htm
+Content Type: text/html
+
+Uri: https://farkastimiphotography.mypixieset.com/kontakt/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\kontakt\index.htm
+Content Type: text/html
+
+Uri: https://farkastimiphotography.mypixieset.com/mnenja/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mnenja\index.htm
+Content Type: text/html
+
+Uri: https://farkastimiphotography.mypixieset.com/o-meni/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\o-meni\index.htm
+Content Type: text/html
+
+Uri: https://farkastimiphotography.mypixieset.com/pogosta-vprasanja/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\pogosta-vprasanja\index.htm
+Content Type: text/html
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i3.woff2?Expires=1704186004&Signature=Hs8-rzX-lDMYPSQYentzZVWuatvgw059~YNBRGkF2a9Z9C7AofdWBqZvArAMLgosftJrMuUhG5p8KD4~O9yeRU4N8xnP-3wnViI7QLwXcg4cbHHwQXQPtP0rlESAkQVtftFLWs1SfCz5kvZ6ZUSN-gpPh4scfRrQsd-I018TA65OiLJ5ww7DV65Nd4~rFuB8V3NFYdf8gHiE5f0ClD6cW4GihlLNmod4lbBoeHPfVmWOQOBfLla--Cw89GdIQh4cbfTc50o-6Vf4pmInLQ6tg4WwphdCgTRDjSjsxYMOTTAmLDKZpyFOFGjdXiKKP7xqGQF7ye3cdL8s3P0fd1XF0g__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i3.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i3.woff?Expires=1704186004&Signature=QBggP5prbB7E-c6BoHSgs7dyjPZvIIo-u~2kQaeh6--s8vLjKQauFE5Q4PdRSn-ZCrbCMn~RMexBsIeHs-VC6n7RgiRF06-BHzXwpM5h0vZnLF580hBveHPwQ9WYWV0CmflcsMA-Hu7MrMAEvFSRKzxz9M8L5YcoS93hqx0JmrLcIGeP7nTFNisojRrSydMofdeBgBScrCWzai9hMpAxh~Ovxd1sqfdwa6fzRHVNXKZ16YerOXKwufuKpECTOy2R1iB9jQFCmn3UtSFz6WUxDzkGBxMuHH9LmlK02l~VPAqpr4nd5w96tgnWtweo08EhC1iUOJxie-sKEA-rBRSFhA__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i3.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i4.woff2?Expires=1704186004&Signature=VL54xCW0haxAQir0f8yZer6SJLdHHy0zE6yDP6gbCj6cPqM3M~QMcB2SqBnz2UA1qS7dsvW8Bxgu2GiWDqzMX0edBXVqeNBgydJcpf9uYOGIG4VSXWcjMVykuCiAU112Jp4KPeDcmqq1SmIZGltDK4oln~n-jSoU49wabsJ2~bQ~hLBGsvMAcKWbdIt5~pBK4lKbKAB8odlv27ZK1gnENVjAcGYnqc9QBFITN15agDvmK1N176yd0Zus7sOsKmGJA3Eyh9Oy58h64nDnG7V~Crj1wedndQuovhIeC5bcQuIU6iXFWWJTq38UVGWxCDMFkfMkmqvD9NNr-6UpVsMHnw__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i4.woff?Expires=1704186004&Signature=HcXr5aBc2p5wlCX7mItc3IMcec8uwKuprauQg8wQuVzrNtbMMLS63~QC9xocbrdavzELZUWcUBAGWbUK3V9Ttub-iZ43cpyRfm-FnakyYx~3gTekTx8Y~ZGp7XAG4CtkcdHbCPsxNd9YibGwUc3d76JAdTjE4TNfLsOm6JIF5kRgMBahE5mJ4xX6kELKxWkh3pNtawKOMzS363uczHysRfi3yXeLx5lcZdyB1AvJR2tGK6W4b14wkAutnmr8IWW3cR8AJBR8eTnirx3PSg9PxL-zyujT~znZtqb2jT1ZXquKMBevJQpsoiBtrVAo6em05LKmQk6FJpjK9Pq4KylHUQ__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i4.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i5.woff2?Expires=1704186004&Signature=QHi7PzNlzmGLQ-sU~xei4CIkdYuzJ~QWGiPJW-QdwjumkF~8T6XTxTKaVC8GWbWrgVBQ2hxrpiNy5V9U7hLryw~nEdv9jDNtjLJeHlzn9M-UkKSYhpXTvf-KQ3orC6qB6p7C-InEtkBJTwuEqwWd8ECj2V9yN2kMyrF~jEZr6FGKsq6RTg272aAoSoNmUkzbalmFE1XUYyd1A6UEKzfv5wMVZT6mN5OcrzC8g2AN5nBq7FM0ugOTJHCo-1nmjlD0l2IYV4C0rLcwg4WOaOVcabAZFz5Cko7Hq~jpNhOSrTJ~PjYkWmx~U6vnoOcgHOZZMw3SvJfUU~oem1AXpY5Pcw__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i5.woff?Expires=1704186004&Signature=fmhj-t1zaq~IEcGKSQKqU-b09jZyXBEohHRQYN~bwA6fxN4BBbrSnAvJzeVvzWmzZzs0twxJhVqtlOrvdh-~UR5OMvQHamiwfuNeZ3vAJ-MR~7zdcWL4F~SjLQjUP37pfLfn~Fbe7pE8W69CN3zbO-E8CGo7cqmtjltDnePzQRwwdb9Z3jMt0clg5zJf-PsUdNrka3~jhXA4y3xnkfk6xS1aZqdjPTEt63ByTmVZ6rk2UlPST4xhW0HZMrzCmxwAe7PIxY85w8mqjagGmkDlpltvq6xjFqhUTJX3ZjJShfNE0Jc1rdohFO3pGBGECOFODMKOhfr-OzEulMy8WDBzxg__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i5.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i7.woff2?Expires=1704186004&Signature=QFBNIvH8AROBu-11UPM8UPKQzCMNTwwqMNtmnRwcPYRwn988ngAwZARwrJhaDhJAieThZZe1caGElj5OdScUZK4gwEkhtnvMiDsKKEXTVOSZbX5O15O0wSDIvC5aCEWdC-47T~gSwHJ-JxGUh-LmYuvQO3DJLH-Qw0rg6ZWDWsKj4AEPTaO-6jtclUi3vmZNde-hmJK4o8VJs5F5I~Q82jmF2cgHzFy7XIW~wWhe3OuDDpjs5~A4wCRZhHBGBFWW3nndlhOF3dRHFP4rXBy9GTnV~9afHMCs0HWmatZTcV08q75FNRxw4vlanLwSHHLTFSkAJSsS1VHQKPQ2Ljp1Aw__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i7.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/i7.woff?Expires=1704186004&Signature=oRvuWya1wkQREsvi0BqXMS4GfbwgJ9YefgK2uN16HsxeFvc0FC7JkErSeGS0rD3WJuN1hyHl9NCfB~Q-9zuTQQLWbFQYqK0kLA1VWowNhDI64GhUZ~SUGytDHlKxEMrhw8KentXrN24ASephk076cuAA1xLrYKlLRyMKEGGU-7uRunJc6PL5dCnQ5RpfRhmOeV3lzaJbMY6g7ZKgte6VY8mprzu5MO9HV34yUfLdjBtC7v9ELS4j31YL6uFecv03H1kjDudmthnXNZgdHfadjZVJwNTCarFz3oFU5VqFRCQftEAuCx7Fq3eBpZoQ59Oqn4-wEqTB7Myn9QFtYlBm9Q__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\i7.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n3.woff2?Expires=1704186004&Signature=Ki--I4phtlkHm5~26hUqQbrWEJqF0UVtLB~6dBep~pHASEUYFKbBp~6X7H9QlAErh~d7CIbCr78v1XSUYx-OMD5heqSMqEnd9fbphg6UHTaYSvvrwaGfi6zfwXfY2r9FE8Ss~GP34RHfHU2q44tvJpA253VUNrgN-3BG-hsfjBimTbvsA0wUt-XsQXcvLwrmXM2xzStJhpHMNLFGjKPTMXt13wj8DakeREkBd7EJv7Frw1lPz8pkVDxXseot6IUW-Jg4deG3dZoqxuPzsPEPPnfEtIw-qFD5p4qc30rpxmXQxzmcv~3DrUmzQQm~L5qHdSicZBL9VCcf3dawo8Ya0g__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n3.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n3.woff?Expires=1704186004&Signature=BqJkpBRfQWuQEmGJCDkzlXQBDmSIEweXpLTDvkww5GkE6QvjeROlRMY2srcfKg~m~T~HUKrnJRwglCu5PiYnYSW4mHGtUwsGZ4aNNjI2IiiZxXT1NMngjt~I-wu~9z~xSg5FfvDxDjmvx3Ndw4VrSeCa1pHkLdo8DyO7Ap7ldKmbAZ1VsKIydBwoHVnBd93rmqPG5BAOYBSX7BLk-xCTTJuuTLQ99qEWtogse97iU3Swk70JZoc33sCTRwlCALrwaNX-vOa4~3eaHhr~jfn-72yNvojYl1d-ChXs4ZQNhNfeDWaBgDHc38b0hDmsYU0xW-SlPLLh-cWjETLRUu9Mqw__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n3.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n4.woff2?Expires=1704186004&Signature=Cv~bPNgL045Bv7fzclf5wRBKKp~HLqK3ijnk0GZUnVEEXZrp2sqY3Nfzrlx6yBr7DcX~R1OWNhm37ojE0bTkJDAZd5VXwdz2LnX7pfGmMmwBEE5OuOoZ6Y1G47IBL1-ZoGyVIETDmwKcQ6GrmFQBXzSNpyUhWa7UQWRzt0TovbUJDL~v-yZrDD3NfmCwQ3pfMCo2TkDBTjRHjo9CQ5d8drm8mC3y5kadjdRvFHHrJoI4t2~V9VeC610jQhXoyosVfKGAPOiaEmGq8NgdGAlfF8i~Knq2lV2E79dA1yeYu-T6Amko1-IkRqN2unP5PF0aPrcBLi46XOEuZt78thodng__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n4.woff?Expires=1704186004&Signature=JC4XNQm--kXrM25PqznF4k8z~OROwl9ssloIkhRDIvnNgFzjojEhpyyPNxjB9QiPRAYDOL~IxJ6Oduv6ii0urkVF2GUmclElH9vE8g6M9aTEh1wYMFuB2isTcixzXLtomuo5pMxoBCyGH-Tsn~i6Lk-l2BuGDPbz1SZUkuM5XtTfD90Nu~OXxhe3X0RQENhJrhwc4LFiNJJA5yz3EDLfr1-c6ajtk-QO-3AGgPKIQSMGpeZrLzXHNzovdTba1f5JTk6DfxfaSG4h7q4Un~AkWUM9DWHorZrfDZb62Ya1abCQFAdnhcV8iRIkkYTb~QkIvAu1KufiVsLwayfklkgOfA__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n4.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n5.woff2?Expires=1704186004&Signature=jb-phKb54LrvfGOpVrupoD5y0FqBz34cK6Fm5XC~~B7OgmJ0Yq2c7g4B-h1qT8I1anUsJHqFj6FymrfN8vR2ZcAUYwvZDwwf9vMAWeuuSOtjiUEQoI7CdbOoFmXmhMGII53Rp-iEAiqH~1ip6B3AQ0zceGG2jtU~3LGloeFbOry2V7hOGNQG5pV2CHDSKV0Z5JFB~prLTiRyk4nloTnM9F1s3g0ewp2S9IOTamRNf9T15n-PBqTRXL1MsulgBtpoUOVi3Q3Er8hNm2Z02ymLe855oZAtPku-OGiEG7tJ7JYwUaeiAExdtRFTUrXdsgCrpfLbU5MF8FQB7TF2opRRXw__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n5.woff?Expires=1704186004&Signature=TEP3GKuKUcypepwlxSLMiopIubCLRvSuLVaZjLkCuccOtWO3zDpL6Ei9WMo0V~L7AiNg1j99PBAwimDUxTOi3bSBPQ-mJGjc5MifwiYIbBvJ4C~BjkSwwqCRFDf3HbhLPCXX1XqeOUIAiazFKoBtizokhU071lwBNq~-OIjgIKk3GRxOSVQnP4Q3Oknhk33GMWj9bGfT1mM4JZz3bAG6lSB6WYWCBQMuLi78Rz4OmrTX5BnHaZZG3zU~4aodramRJ8z-nhNa5-LQdILw9rA6CFvda2YECtp3TlYjE3edU2e6OD1N-B-gR00gbyR1camTva6h~bx~ROc~hZfOeUjnnQ__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n5.woff
+Content Type: font/woff
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n7.woff2?Expires=1704186004&Signature=ozVPyB4v7Qodyge~3TtJYEyurv97xCErhstXEScon1roYizVxnb6hr2cpur3gjQkKuB2ZmbgYfH9rpE8bYPMR2~Gj-O5swX8ytO1knkk8U9EPDZB6vZIWHjPpWM9CPmjvbZ3oJHdX8BBlHHKffo62dT2c02jX7lRbk100bWepWJStCA6z8C34uf-4nJZgJhE3M8jymUJ7MaRUSi-faFEhvlYJoRucB2Dvsj7eY6SWz9y~T3dIqFrSulvDKbax9NZDlKwu5ZWYVFPD04wH8TmVHJx7sdmlzRjjRGD54W41QtE2uyIj0XAcWnO4P7yPDyvW2AhXHU9DhHKxAXXiD-hdA__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n7.woff2
+Content Type: font/woff2
+
+Uri: https://fonts-pw.pixieset.com/fonts/izmir/n7.woff?Expires=1704186004&Signature=U~Ed3Y6IDfn4MqRVX~9XeRlcud6Mv2J8LHGNMjYpbwffu~ExwMCLs3QsS9GLKZ6U-XrBOwGVvgV8OOnKjdivSB1ltOzE7I6korGtKCzt9ti~gyF-iq~7FdX9WRlvf3aRR-Dz1nbHkx525KYKg8SvKKB5vXTxZ3QytcrUwHAFljg6Fwylo477xzAzO11hH8eJd1gILrcb3uJ6ee6r6BiqkNpbsdVURn1QezwzIg9D7Ks4-D4gDlq1mGumtutHudxV7VG1xmmQji352BEF~Bb26Kn9drXUFbR0EeoWvGvuIirFFGr5Oh2t8fu4Br3FG6tUaIc8EJPJdm7a6aIUpFPTBA__&Key-Pair-Id=K3RI8219ESW2NK
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fonts\izmir\n7.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@600;700&family=Lato:wght@300;400;500&display=swap
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300,400,700
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://images-pw.pixieset.com/elementfield/012423763/697-58b5a670-2500.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\012423763\697-58b5a670-2500.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/elementfield/027152763/EditFB-5-468a1cf0-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\027152763\EditFB-5-468a1cf0-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/090529963/EditFB-107-fe928a68-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\090529963\EditFB-107-fe928a68-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/208152763/Mladim_pomagamo-20-452e9e68-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\208152763\Mladim_pomagamo-20-452e9e68-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/277552763/964-a49e1db1-2500.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\277552763\964-a49e1db1-2500.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/elementfield/292942763/56-6734e4e3-2500.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\292942763\56-6734e4e3-2500.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/elementfield/399243763/e5b955dcb3c5b1d28ff300265b1a8211-9fbc59b4-1500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\399243763\e5b955dcb3c5b1d28ff300265b1a8211-9fbc59b4-1500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/451042373/DSC_2974-Enhanced-NR-efcc2315-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\451042373\DSC_2974-Enhanced-NR-efcc2315-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/582942763/EditFB-4-4a82be12-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\582942763\EditFB-4-4a82be12-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/589243763/984e6773b7943a2e97e8b74121c49485-a093cfa7-1500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\589243763\984e6773b7943a2e97e8b74121c49485-a093cfa7-1500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/718677763/2ac6e14b55d3d6f12c9423d38404b125-9712f8e5-1500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\718677763\2ac6e14b55d3d6f12c9423d38404b125-9712f8e5-1500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/872942763/2-acf7c9cb-2500.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\872942763\2-acf7c9cb-2500.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/elementfield/978967073/351158534_791259312597124_6626169140095278839_n-10be423b-300.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\978967073\351158534_791259312597124_6626169140095278839_n-10be423b-300.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/978967073/351158534_791259312597124_6626169140095278839_n-8a5ba94a-1000.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\978967073\351158534_791259312597124_6626169140095278839_n-8a5ba94a-1000.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/978967073/351158534_791259312597124_6626169140095278839_n-8ca9f15e-2500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\978967073\351158534_791259312597124_6626169140095278839_n-8ca9f15e-2500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/978967073/351158534_791259312597124_6626169140095278839_n-bc0617d3-1500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\978967073\351158534_791259312597124_6626169140095278839_n-bc0617d3-1500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/978967073/351158534_791259312597124_6626169140095278839_n-eb4bb017-500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\978967073\351158534_791259312597124_6626169140095278839_n-eb4bb017-500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/elementfield/989243763/3ac8eb900e7aa471bdc75125ebf48035-13e0f75a-1500.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elementfield\989243763\3ac8eb900e7aa471bdc75125ebf48035-13e0f75a-1500.jpg
+Content Type: image/jpeg
+
+Uri: https://images-pw.pixieset.com/profile/931075/25a0660adcb909aea6bbdeb219cd685f86d942f02cf9e03fbef4dd04abdb215b.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\profile\931075\25a0660adcb909aea6bbdeb219cd685f86d942f02cf9e03fbef4dd04abdb215b.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/profile/931075/9a78da661294547f23da86ffb3d07823f4258d879df2d6494f68a9a5600ce6f6.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\profile\931075\9a78da661294547f23da86ffb3d07823f4258d879df2d6494f68a9a5600ce6f6.png
+Content Type: image/png
+
+Uri: https://images-pw.pixieset.com/profile/931075/9ad1354c16924660f5bf5c1b7bab96443400f43101283da5144ab44a5f8f83c6.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\profile\931075\9ad1354c16924660f5bf5c1b7bab96443400f43101283da5144ab44a5f8f83c6.png
+Content Type: image/png
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/08742696/f74134fb306793e8d96847882e3c7b66-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\08742696\f74134fb306793e8d96847882e3c7b66-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/00a65fe5bc7269eaef5ccd0b0df6180c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\00a65fe5bc7269eaef5ccd0b0df6180c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/020c5e2ad2ee4f4c0fa5503551b686a8-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\020c5e2ad2ee4f4c0fa5503551b686a8-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/178740d549a6b05e10e500da419f3751-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\178740d549a6b05e10e500da419f3751-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/18e08a4ca1ac0059e7436b9bcdb40a77-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\18e08a4ca1ac0059e7436b9bcdb40a77-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/196d69f56747e273f10464fed6f072b0-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\196d69f56747e273f10464fed6f072b0-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/2742920e1eae2b2e32d82eda72d17267-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\2742920e1eae2b2e32d82eda72d17267-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/2e1b3a36bc710d8ff893f08b19a8c993-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\2e1b3a36bc710d8ff893f08b19a8c993-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/4d10c765829f2f8d87936cfe16b24bd6-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\4d10c765829f2f8d87936cfe16b24bd6-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/52e2ac177062a83b10f8c7af99a33580-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\52e2ac177062a83b10f8c7af99a33580-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/569f6577446ee33e9006e99f03219d07-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\569f6577446ee33e9006e99f03219d07-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/6d134e23d0480d777e5fd69576b7ed98-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\6d134e23d0480d777e5fd69576b7ed98-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/6d56a5f544c779da057a9f12bf18dae7-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\6d56a5f544c779da057a9f12bf18dae7-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/7cfeeaf5d2bf796905fb76f2c720fba7-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\7cfeeaf5d2bf796905fb76f2c720fba7-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/85177c4ccf4cf6a27f3b678af2be4d2f-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\85177c4ccf4cf6a27f3b678af2be4d2f-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/8bc1c7925224505e9a9bf8b0dc81f352-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\8bc1c7925224505e9a9bf8b0dc81f352-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/8e83ef56ddef2099310fac662e48d670-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\8e83ef56ddef2099310fac662e48d670-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/97c4caf760767873729c59bbf74b80db-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\97c4caf760767873729c59bbf74b80db-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/98ad8c19487178b5b001760034f35bb2-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\98ad8c19487178b5b001760034f35bb2-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a134b1b9abc665a1424b439cc9fcc3f4-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a134b1b9abc665a1424b439cc9fcc3f4-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a2e58586e7c08cc84fe66d5a69352566-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a2e58586e7c08cc84fe66d5a69352566-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/a33edbf1dabf8aa46118e7393843e5d8-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\a33edbf1dabf8aa46118e7393843e5d8-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/b0bbb9c8c98bc3f1a697fc742a2b007b-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\b0bbb9c8c98bc3f1a697fc742a2b007b-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/b906a2d9acd6fb56cf4fe298e892e818-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\b906a2d9acd6fb56cf4fe298e892e818-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/bcb0ff43377f10c8bc52574e1d08739c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\bcb0ff43377f10c8bc52574e1d08739c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/c1612a1d389c95b4491a7ffff4cd475e-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\c1612a1d389c95b4491a7ffff4cd475e-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/cc10e45525dee072eb6d997104cf010d-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\cc10e45525dee072eb6d997104cf010d-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/d124d95de9c6360f48e71d9b130bcd4e-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\d124d95de9c6360f48e71d9b130bcd4e-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/d557e31ec68fb00d9a7a9126a3e939c7-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\d557e31ec68fb00d9a7a9126a3e939c7-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/d796f5223abca7d7a77bd1e114e2cc7c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\d796f5223abca7d7a77bd1e114e2cc7c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/dca2c1e00aa61c9475b94d593246801c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\dca2c1e00aa61c9475b94d593246801c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/e04ba23b440493ed1a3f1ec4e63e4724-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\e04ba23b440493ed1a3f1ec4e63e4724-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/e4636ae986b9ad3ec599be85a0100997-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\e4636ae986b9ad3ec599be85a0100997-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/09988096/ea13b2b23b54307323008a69d316f4d5-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\09988096\ea13b2b23b54307323008a69d316f4d5-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/24632646/f62016de85b57d736a096c261eab0269-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\24632646\f62016de85b57d736a096c261eab0269-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/33077996/c0b6ef748ab33bbfeae666cc505f5199-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\33077996\c0b6ef748ab33bbfeae666cc505f5199-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/36403946/79ef9dfab8d4cfd44e2d491237d81ef0-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\36403946\79ef9dfab8d4cfd44e2d491237d81ef0-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/42933946/45bf70599c259294ed9df4844c05e041-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\42933946\45bf70599c259294ed9df4844c05e041-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/06e60b8fcf3736619206ff3578f1a0d6-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\06e60b8fcf3736619206ff3578f1a0d6-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/146e3777b42444ef6286ba9dbf93eba8-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\146e3777b42444ef6286ba9dbf93eba8-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/16acc12412e1225ff94d7647d71f3e33-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\16acc12412e1225ff94d7647d71f3e33-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/1c1fb1131c1294f55b202c534d884d9a-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\1c1fb1131c1294f55b202c534d884d9a-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/2a44d2fad0a541e62609149371b7e55a-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\2a44d2fad0a541e62609149371b7e55a-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/31dceae2545378df2f6a50c4154fea54-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\31dceae2545378df2f6a50c4154fea54-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/3714a3ad8db43deb3526a8a0a6d7e180-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\3714a3ad8db43deb3526a8a0a6d7e180-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/3dc60c84275e4c5b2f0564723018a311-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\3dc60c84275e4c5b2f0564723018a311-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/3e2ff58044e3b018a92f474c6e7c970d-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\3e2ff58044e3b018a92f474c6e7c970d-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/4271524d3d358a358db83fdd1f06b240-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\4271524d3d358a358db83fdd1f06b240-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/466708a72c59558ca3b9c5742a134874-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\466708a72c59558ca3b9c5742a134874-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/53efb9ceec904133c74fb3c4910b4e66-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\53efb9ceec904133c74fb3c4910b4e66-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/5ccf3aa488b44f1c513d9d4acc7b96c6-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\5ccf3aa488b44f1c513d9d4acc7b96c6-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/609190e851d60cdb981cebd3efa0a94d-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\609190e851d60cdb981cebd3efa0a94d-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/62cc377a5b8f13c41b3395d1e72c6c77-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\62cc377a5b8f13c41b3395d1e72c6c77-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/71a756c92d698ead06a3b2a8e620aff0-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\71a756c92d698ead06a3b2a8e620aff0-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/77228f821bdaf9eb2e0cc79b371c12e1-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\77228f821bdaf9eb2e0cc79b371c12e1-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/79625dfe587c72bcb5467b362f12e62f-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\79625dfe587c72bcb5467b362f12e62f-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/7ae9c32876e5b6952f8ab60cdd43f6d0-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\7ae9c32876e5b6952f8ab60cdd43f6d0-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/95c91d25d02e9fdcedb068b2e59c8a3c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\95c91d25d02e9fdcedb068b2e59c8a3c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/acbd66836509e7c3ff02acd0c8612266-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\acbd66836509e7c3ff02acd0c8612266-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/b115c87ed0618a983538a6c54b933ab5-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\b115c87ed0618a983538a6c54b933ab5-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/b2e398f42569195551a094a329d5d640-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\b2e398f42569195551a094a329d5d640-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/b6eee3cef1f2aafae68a9d08bdc3a1ae-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\b6eee3cef1f2aafae68a9d08bdc3a1ae-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/b74e732523b9d320fc6479180cef1c0d-medium.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\b74e732523b9d320fc6479180cef1c0d-medium.png
+Content Type: image/png
+
+Uri: https://images.pixieset.com/50988096/c73ac2f20b2df24bef5e584f3e928fe5-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\c73ac2f20b2df24bef5e584f3e928fe5-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/cb23d5d19ad0fc10fd7672f121f57d21-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\cb23d5d19ad0fc10fd7672f121f57d21-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/d2b6c00ec733a5330b54787e75ac33f4-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\d2b6c00ec733a5330b54787e75ac33f4-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/d81b5506a5a25726ef3ed2fcee5634e3-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\d81b5506a5a25726ef3ed2fcee5634e3-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/dac6c495c2ee0daa819b8dc21bdf936a-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\dac6c495c2ee0daa819b8dc21bdf936a-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/de6ebb1b1356579aeda82eb70ae5fd3f-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\de6ebb1b1356579aeda82eb70ae5fd3f-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/e2e3c721cde57dc5eea25d549cb76347-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\e2e3c721cde57dc5eea25d549cb76347-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/50988096/ed7dd6ac39cc692ae89b572dfdf950d0-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\50988096\ed7dd6ac39cc692ae89b572dfdf950d0-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/55233766/89cf7dfc65a36f0d7cb4ea92af9daa7e-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\55233766\89cf7dfc65a36f0d7cb4ea92af9daa7e-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/59684596/1b0ec42e6867af9a252385a194c04e63-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\59684596\1b0ec42e6867af9a252385a194c04e63-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/60939086/1239acd980ded36e908ee5345a327d52-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\60939086\1239acd980ded36e908ee5345a327d52-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/75161646/c333fc4cce759ef33f7b909370aadada-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\75161646\c333fc4cce759ef33f7b909370aadada-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-cover-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-cover-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-cover.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-large.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-large.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-medium.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-thumb.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-touch.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://images.pixieset.com/90336996/4460b6886b2ed5c58514d74ab0e32c0c-xlarge.jpg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\90336996\4460b6886b2ed5c58514d74ab0e32c0c-xlarge.jpg
+Content Type: image/jpeg
+
+Uri: https://logos.pixieset.com/6196161/84cbc1a87f2335ef569404eca734cbe0.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\6196161\84cbc1a87f2335ef569404eca734cbe0.png
+Content Type: image/png
+
+Uri: https://photos.farkastimi.si/bozicni-koncert-mladinskega-cerkvenega-zbora-v-kobilju/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\bozicni-koncert-mladinskega-cerkvenega-zbora-v-kobilju\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/elektrosok-koncert-na-bozicnem-bazarju-v-lendavi/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\elektrosok-koncert-na-bozicnem-bazarju-v-lendavi\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/koncert-jana-plestenjaka-v-lendavi/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\koncert-jana-plestenjaka-v-lendavi\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/koncert-kvarteta-evropski-dnevi-judovske-kulture-v-sinagogi-lendava/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\koncert-kvarteta-evropski-dnevi-judovske-kulture-v-sinagogi-lendava\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/koncert-nede-ukraden-v-beltincih/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\koncert-nede-ukraden-v-beltincih\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/last-christmas-party-z-zlato-zilo-v-retro-cafe-lendava/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\last-christmas-party-z-zlato-zilo-v-retro-cafe-lendava\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/miklavzev-turnir-v-lendavi/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\miklavzev-turnir-v-lendavi\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/miklavzev-turnir-v-lendavi/?sc=1
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\miklavzev-turnir-v-lendavi\index-1.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/miklavzev-turnir-v-lendavi/store/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\miklavzev-turnir-v-lendavi\store\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/miklavzev-turnir-v-lendavi/store/cart/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\miklavzev-turnir-v-lendavi\store\cart\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/miklavzev-turnir-v-lendavi/store/product/fotografija-polna-resolucija/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\miklavzev-turnir-v-lendavi\store\product\fotografija-polna-resolucija\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/mladim-pomagamo-2023/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mladim-pomagamo-2023\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/mladim-pomagamo-2023/?sc=1
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mladim-pomagamo-2023\index-1.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/mladim-pomagamo-2023/store/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mladim-pomagamo-2023\store\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/mladim-pomagamo-2023/store/cart/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mladim-pomagamo-2023\store\cart\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/mladim-pomagamo-2023/store/product/fotografija-polna-resolucija/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\mladim-pomagamo-2023\store\product\fotografija-polna-resolucija\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/obletnica-20-let-osnovne-sole/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\obletnica-20-let-osnovne-sole\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/poroka-olgice-in-mateja/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\poroka-olgice-in-mateja\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/poroka-olgice-in-mateja/fotografije/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\poroka-olgice-in-mateja\fotografije\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/poroka-olgice-in-mateja/videoobreda/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\poroka-olgice-in-mateja\videoobreda\index.htm
+Content Type: text/html
+
+Uri: https://photos.farkastimi.si/turnir-v-igranji-snopsa/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\turnir-v-igranji-snopsa\index.htm
+Content Type: text/html
+
+Uri: https://static.cdninstagram.com/images/ads/branded_map_pin.png?__makehaste_cache_breaker=QxM9c3xf1b4
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ads\branded_map_pin.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/ad_choices.png?__makehaste_cache_breaker=tOMh8nRBb4Z
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\ad_choices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_info_adchoices.png?__makehaste_cache_breaker=OGqJ1fYkNfh
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_info_adchoices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_adchoices.png?__makehaste_cache_breaker=8RFARmpILyE
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_adchoices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_ad_preferences.png?__makehaste_cache_breaker=iLLvv8js0qr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_ad_preferences.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_cross.png?__makehaste_cache_breaker=h3TJN88cIRB
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_cross.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_hide.png?__makehaste_cache_breaker=EkIMv2Z8fSD
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_hide.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_hide_white.png?__makehaste_cache_breaker=qMDbQeZThwc
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_hide_white.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_report.png?__makehaste_cache_breaker=gow2_WOnJes
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_report.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_report_white.png?__makehaste_cache_breaker=ZHmWZ5jPNJo
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_report_white.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_tick.png?__makehaste_cache_breaker=33xVYAe6drA
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\ad_network\icon_xout_tick.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/community_empowerment_roles/Communities-Empowerment-Roles-Platform-Spark-New-Convo-QP-ALT-WWW_light.png?__makehaste_cache_breaker=fX_BSjkmfju
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\community_empowerment_roles\Communities-Empowerment-Roles-Platform-Spark-New-Convo-QP-ALT-WWW_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/facebook_icons/app-instant-games_filled_24_primary-icon-on-media.png?__makehaste_cache_breaker=zw59L7ftc4b
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\facebook_icons\app-instant-games_filled_24_primary-icon-on-media.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_dark.png?__makehaste_cache_breaker=MbUjt44_M58
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameBottom_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_light.png?__makehaste_cache_breaker=YkIg6DWpi8y
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameBottom_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_dark.png?__makehaste_cache_breaker=ijtwALOagJp
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameTop_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_light.png?__makehaste_cache_breaker=TxhjtDtKNE3
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameTop_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/help_center_about_page_illustrations/meta-gradient-dark-mode.png?__makehaste_cache_breaker=wB42rOvx4lO
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\assets_DO_NOT_HARDCODE\help_center_about_page_illustrations\meta-gradient-dark-mode.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/business_integrity/non_discrimination/Non_Discrimination_Header.png?__makehaste_cache_breaker=NtRNG_gaN11
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\business_integrity\non_discrimination\Non_Discrimination_Header.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/commerce_platform/shop_builder/preview-mobile-frame.png?__makehaste_cache_breaker=lS49le69x3X
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\commerce_platform\shop_builder\preview-mobile-frame.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones-2x.png?__makehaste_cache_breaker=73SVAexZgBW
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\instagram\xig\homepage\phones\home-phones-2x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\instagram\xig\homepage\phones\home-phones.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core.png?__makehaste_cache_breaker=VftLCxPPZoi
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\instagram\xig_legacy_spritesheets\sprite_core.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core_2x.png?__makehaste_cache_breaker=GWw2YTj1Yfo
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\instagram\xig_legacy_spritesheets\sprite_core_2x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/marketing_messaging/instagram_preview_frame_4x.png?__makehaste_cache_breaker=VThmYCw6QtY
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\marketing_messaging\instagram_preview_frame_4x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/marketing_messaging/messenger_preview_new_frame_4x.png?__makehaste_cache_breaker=p1ELidrK-eN
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\marketing_messaging\messenger_preview_new_frame_4x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete.png?__makehaste_cache_breaker=uMFc7Vv5zGa
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\mobile\partner_portal\oxsights\delete.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete_dark.png?__makehaste_cache_breaker=UsAf3NxOqis
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\mobile\partner_portal\oxsights\delete_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_custom.png?__makehaste_cache_breaker=eXTIrD70d3e
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\mobile\partner_portal\oxsights\share_custom.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_dark.png?__makehaste_cache_breaker=Rm6JKCcGjW-
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\mobile\partner_portal\oxsights\share_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/social_good/donation-comment-hearts.png?__makehaste_cache_breaker=XdnlgRIDrAe
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\social_good\donation-comment-hearts.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/social_good/fundraiser/fundraiser-jar.png?__makehaste_cache_breaker=pIB2zrKnPRf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\social_good\fundraiser\fundraiser-jar.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/video/onboarding/onboardingFlow-starBg.png?__makehaste_cache_breaker=7SR6gMtBpp6
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\video\onboarding\onboardingFlow-starBg.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/video/player_redesign/bottom_gradient.png?__makehaste_cache_breaker=Z8ThNyxPEjI
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\video\player_redesign\bottom_gradient.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/whatsapp/onboarding_platform/tree-line.svg?__makehaste_cache_breaker=iQ6qiDdN0-q
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\whatsapp\onboarding_platform\tree-line.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cdninstagram.com/images/whatsapp/paid_messaging/whatsapp-chat-bg.png?__makehaste_cache_breaker=xp3CJzjRbdP
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\images\whatsapp\paid_messaging\whatsapp-chat-bg.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y0/l/0,ja_JP/oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y0\l\0,ja_JP\oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y1/l/1,cross/bxSmfyIy2etyQRpqTh1YGOek2_vOlGcov.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y1\l\1,cross\bxSmfyIy2etyQRpqTh1YGOek2_vOlGcov.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y2/r/9b8ieLAMy-I.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y2\r\9b8ieLAMy-I.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y5/r/TJztmXpWTmS.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y5\r\TJztmXpWTmS.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y8/r/ZWR9C7_JdnP.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y8\r\ZWR9C7_JdnP.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y9/r/Rw6zRqtTwIo.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y9\r\Rw6zRqtTwIo.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yB/r/-7Z_RkdLJUX.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yB\r\-7Z_RkdLJUX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yg/l/2,cross/oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yg\l\2,cross\oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yG\r\De-Dwpd5CHc.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yg/r/y6a-zrkW3Zq.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yg\r\y6a-zrkW3Zq.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yh/l/0,cross/bxSmfyIy2etyQRpqTh1YGOek2_vOlGcov.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yh\l\0,cross\bxSmfyIy2etyQRpqTh1YGOek2_vOlGcov.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yH/l/0,cross/Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yH\l\0,cross\Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yH/r/S8jSrtgyvd6.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yH\r\S8jSrtgyvd6.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yi/r/lvkTQo0k7OO.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yi\r\lvkTQo0k7OO.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yI\r\VsNE-OHk_8a.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yl/l/1,cross/oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yl\l\1,cross\oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yL/r/unHwF9CkMyM.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yL\r\unHwF9CkMyM.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yN/r/otZOn9ChsZX.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yN\r\otZOn9ChsZX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yn/r/XPTX0nme-Oq.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yn\r\XPTX0nme-Oq.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yo/l/0,ja_JP/Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yo\l\0,ja_JP\Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yO/r/38WVYkpbDd-.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yO\r\38WVYkpbDd-.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yp/l/1,cross/-mAdZfXVQvJZoq06k84ij8PURlo7p3bVzm4cq9115gak.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yp\l\1,cross\-mAdZfXVQvJZoq06k84ij8PURlo7p3bVzm4cq9115gak.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yp/r/LElfhC4pb_J.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yp\r\LElfhC4pb_J.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yP/r/pzVF2zi_I48.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yP\r\pzVF2zi_I48.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yp/r/_kDwUYOrwpv.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yp\r\_kDwUYOrwpv.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yQ/l/0,cross/-mAdZfXVQvJZoq06k84ij8PURlo7p3bVzm4cq9115gak.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yQ\l\0,cross\-mAdZfXVQvJZoq06k84ij8PURlo7p3bVzm4cq9115gak.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yQ/l/1,cross/Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yQ\l\1,cross\Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yR\r\lam-fZmwmvn.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yr/r/Zf3P2CwU8LT.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yr\r\Zf3P2CwU8LT.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yS/l/0,cross/oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yS\l\0,cross\oAuNAcoMTZlgmblNlGu8OlxNPmBiOcgTs.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\ys\r\aM-g435MtEX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yS/r/j2tKuSsziq4.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yS\r\j2tKuSsziq4.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yS/r/lVGlFG1Qa2U.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yS\r\lVGlFG1Qa2U.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/ys/r/qv7ZSPGDNFr.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\ys\r\qv7ZSPGDNFr.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yt/r/_SaD8dG4YG4.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yt\r\_SaD8dG4YG4.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yv/r/5WZ51EJRBPR.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yv\r\5WZ51EJRBPR.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yw/l/0,cross/oAuNAcoMTZlOjSfq4d26BQ.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yw\l\0,cross\oAuNAcoMTZlOjSfq4d26BQ.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yx/r/H1l_HHqi4p6.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\yx\r\H1l_HHqi4p6.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y_/l/2,cross/Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3\y_\l\2,cross\Q-HACkDZae4NWByIQ9vnRWjKfGi-Gaq323E8bLj-YICr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-2N4/yy/l/fa_IR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i-2N4\yy\l\fa_IR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-eN4/y6/l/sk_SK/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i-eN4\y6\l\sk_SK\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-WM4/yJ/l/el_GR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i-WM4\yJ\l\el_GR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i0fe4/yE/l/da_DK/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i0fe4\yE\l\da_DK\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i0un4/y9/l/el_GR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i0un4\y9\l\el_GR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i0WB4/y3/l/gu_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i0WB4\y3\l\gu_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i16C4/yl/l/kn_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i16C4\yl\l\kn_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i18I4/yX/l/hr_HR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i18I4\yX\l\hr_HR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1dJ4/y8/l/fr_FR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1dJ4\y8\l\fr_FR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1EP4/yF/l/fr_FR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1EP4\yF\l\fr_FR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1G44/ys/l/sv_SE/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1G44\ys\l\sv_SE\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1l64/y3/l/id_ID/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1l64\y3\l\id_ID\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1Pj4/yu/l/uk_UA/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1Pj4\yu\l\uk_UA\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1UT4/yf/l/hr_HR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1UT4\yf\l\hr_HR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1WU4/yq/l/gu_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1WU4\yq\l\gu_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1z04/yM/l/fi_FI/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i1z04\yM\l\fi_FI\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i2jS4/yL/l/en_US/d_Wl5sslZ4q.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i2jS4\yL\l\en_US\d_Wl5sslZ4q.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i2v-4/yj/l/es_LA/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i2v-4\yj\l\es_LA\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i3574/yH/l/fi_FI/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i3574\yH\l\fi_FI\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i3G24/yD/l/sv_SE/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i3G24\yD\l\sv_SE\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i3l34/yp/l/bn_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i3l34\yp\l\bn_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i3xv4/yj/l/en_US/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i3xv4\yj\l\en_US\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i5C94/yl/l/en_GB/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i5C94\yl\l\en_GB\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i5Po4/yi/l/sr_RS/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i5Po4\yi\l\sr_RS\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i5vH4/yU/l/zh_TW/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i5vH4\yU\l\zh_TW\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6qR4/y5/l/ar_AR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i6qR4\y5\l\ar_AR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6TM4/yY/l/en_US/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i6TM4\yY\l\en_US\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6w84/yu/l/sv_SE/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i6w84\yu\l\sv_SE\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6xe4/yq/l/bn_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i6xe4\yq\l\bn_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7154/yF/l/ru_RU/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7154\yF\l\ru_RU\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i71m4/yT/l/th_TH/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i71m4\yT\l\th_TH\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7GI4/yc/l/ms_MY/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7GI4\yc\l\ms_MY\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7Hq4/ye/l/it_IT/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7Hq4\ye\l\it_IT\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7KV4/yF/l/he_IL/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7KV4\yF\l\he_IL\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7r44/yK/l/ta_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7r44\yK\l\ta_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7xZ4/yU/l/nb_NO/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i7xZ4\yU\l\nb_NO\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i80Y4/yF/l/ja_JP/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i80Y4\yF\l\ja_JP\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i9cm4/yH/l/it_IT/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i9cm4\yH\l\it_IT\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i9Jh4/yi/l/zh_HK/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i9Jh4\yi\l\zh_HK\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iA-j4/yT/l/pt_PT/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iA-j4\yT\l\pt_PT\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iaHu4/yH/l/bg_BG/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iaHu4\yH\l\bg_BG\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iaSt4/y0/l/pt_BR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iaSt4\y0\l\pt_BR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iATC4/y1/l/zh_TW/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iATC4\y1\l\zh_TW\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAuW4/yf/l/ro_RO/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iAuW4\yf\l\ro_RO\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAVN4/yh/l/it_IT/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iAVN4\yh\l\it_IT\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAwM4/yC/l/af_ZA/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iAwM4\yC\l\af_ZA\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iA_h4/yf/l/cs_CZ/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iA_h4\yf\l\cs_CZ\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ibA54/y0/l/he_IL/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ibA54\y0\l\he_IL\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iBIb4/ya/l/hu_HU/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iBIb4\ya\l\hu_HU\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ibm54/y7/l/ar_AR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ibm54\y7\l\ar_AR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iBP04/yL/l/fa_IR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iBP04\yL\l\fa_IR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ibUN4/y4/l/sr_RS/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ibUN4\y4\l\sr_RS\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ic6E4/yV/l/id_ID/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ic6E4\yV\l\id_ID\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iC964/yO/l/tr_TR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iC964\yO\l\tr_TR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3icai4/y6/l/hr_HR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3icai4\y6\l\hr_HR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iCAM4/yQ/l/pt_PT/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iCAM4\yQ\l\pt_PT\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3icbS4/y3/l/af_ZA/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3icbS4\y3\l\af_ZA\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iceb4/yI/l/de_DE/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iceb4\yI\l\de_DE\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3icED4/yK/l/tl_PH/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3icED4\yK\l\tl_PH\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iChT4/yI/l/zh_CN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iChT4\yI\l\zh_CN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3icW84/y_/l/zh_HK/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3icW84\y_\l\zh_HK\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3icZ24/y2/l/ru_RU/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3icZ24\y2\l\ru_RU\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iD0e4/y8/l/ne_NP/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iD0e4\y8\l\ne_NP\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iD484/yQ/l/te_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iD484\yQ\l\te_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idus4/y3/l/fi_FI/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3idus4\y3\l\fi_FI\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idW14/yz/l/af_ZA/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3idW14\yz\l\af_ZA\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idxL4/yG/l/pt_BR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3idxL4\yG\l\pt_BR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ie2w4/yb/l/si_LK/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ie2w4\yb\l\si_LK\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ieBH4/yD/l/el_GR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ieBH4\yD\l\el_GR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ieTU4/y1/l/cs_CZ/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ieTU4\y1\l\cs_CZ\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iEvI4/yV/l/en_US/PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iEvI4\yV\l\en_US\PaWrCkIhvcq5uZoKs8IEJi7G3jabXddbXqk308S60MAtCNxbC1vE502T0ssfbvsq99f1wcn-Y5ZVK89Vv__-P5w57mNxHHCOtfOcxQ6V5WGTeuXnlwT0UMHT-vsWqehdEtWwDQVEH-g-FDC.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iFhS4/y6/l/ro_RO/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iFhS4\y6\l\ro_RO\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ifMe4/yT/l/ar_AR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ifMe4\yT\l\ar_AR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iFN54/yl/l/uk_UA/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iFN54\yl\l\uk_UA\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iFq74/yF/l/th_TH/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iFq74\yF\l\th_TH\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ifVa4/yA/l/ms_MY/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ifVa4\yA\l\ms_MY\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iG-B4/yx/l/de_DE/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iG-B4\yx\l\de_DE\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iG3c4/yS/l/zh_HK/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iG3c4\yS\l\zh_HK\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iGD84/yI/l/mr_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iGD84\yI\l\mr_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iGMu4/yp/l/hr_HR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iGMu4\yp\l\hr_HR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3igqO4/yV/l/fr_FR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3igqO4\yV\l\fr_FR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3igs44/y8/l/da_DK/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3igs44\y8\l\da_DK\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iGX64/yU/l/nl_NL/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iGX64\yU\l\nl_NL\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iH914/y5/l/pl_PL/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iH914\y5\l\pl_PL\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHCn4/yS/l/pl_PL/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iHCn4\yS\l\pl_PL\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihID4/yt/l/tl_PH/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ihID4\yt\l\tl_PH\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHn24/y1/l/vi_VN/kWs8EtLxdqf.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iHn24\y1\l\vi_VN\kWs8EtLxdqf.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHo74/yJ/l/vi_VN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iHo74\yJ\l\vi_VN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihuW4/yG/l/ko_KR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ihuW4\yG\l\ko_KR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHXH4/yh/l/ml_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iHXH4\yh\l\ml_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ii9q4/yR/l/kn_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ii9q4\yR\l\kn_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iidO4/ye/l/tr_TR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iidO4\ye\l\tr_TR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iIET4/yE/l/th_TH/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iIET4\yE\l\th_TH\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iIme4/yA/l/fr_CA/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iIme4\yA\l\fr_CA\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iINQ4/yt/l/tr_TR/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iINQ4\yt\l\tr_TR\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iiXR4/yK/l/da_DK/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iiXR4\yK\l\da_DK\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iizL4/y3/l/id_ID/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iizL4\y3\l\id_ID\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ij-N4/y_/l/ko_KR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ij-N4\y_\l\ko_KR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijaa4/yE/l/es_LA/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ijaa4\yE\l\es_LA\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ije04/ye/l/en_US/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ije04\ye\l\en_US\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijfO4/yx/l/vi_VN/tCCNdfK4-ywzWGQoPG0YEQj6vm4mv6iIif37smZ-RH1rYkR4dvwL5JGCCIVu6PbeOkCNxbC1vE502BBxs3RC1aML64QK6vPYECNujg3Kl1N46NappxhWHMZSXOY1VotgcIyqia81OXz_qUmvlKO-tTYKqZfkQgrvHU7BhXRniPKfr0xTey-er-P-asfAMBI80zJOUInFxoscQ1zaHjMRLnSEOjtwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ijfO4\yx\l\vi_VN\tCCNdfK4-ywzWGQoPG0YEQj6vm4mv6iIif37smZ-RH1rYkR4dvwL5JGCCIVu6PbeOkCNxbC1vE502BBxs3RC1aML64QK6vPYECNujg3Kl1N46NappxhWHMZSXOY1VotgcIyqia81OXz_qUmvlKO-tTYKqZfkQgrvHU7BhX.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijk24/yp/l/ru_RU/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ijk24\yp\l\ru_RU\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iJKx4/yq/l/ja_JP/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iJKx4\yq\l\ja_JP\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijoB4/yC/l/fr_CA/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ijoB4\yC\l\fr_CA\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijt_4/y-/l/te_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ijt_4\y-\l\te_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iJXd4/y9/l/ms_MY/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iJXd4\y9\l\ms_MY\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ij_s4/yx/l/ro_RO/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ij_s4\yx\l\ro_RO\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iK5a4/y7/l/af_ZA/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iK5a4\y7\l\af_ZA\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iKIL4/yf/l/ur_PK/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iKIL4\yf\l\ur_PK\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iklT4/yx/l/en_GB/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iklT4\yx\l\en_GB\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iKpS4/yp/l/it_IT/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iKpS4\yp\l\it_IT\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikw24/y9/l/es_LA/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ikw24\y9\l\es_LA\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3il2S4/yd/l/gu_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3il2S4\yd\l\gu_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3il5V4/yW/l/mr_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3il5V4\yW\l\mr_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ilC-4/yk/l/bg_BG/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ilC-4\yk\l\bg_BG\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ilCz4/y8/l/es_LA/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ilCz4\y8\l\es_LA\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iLup4/yQ/l/bn_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iLup4\yQ\l\bn_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iM384/yZ/l/ta_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iM384\yZ\l\ta_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3im5L4/y6/l/id_ID/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3im5L4\y6\l\id_ID\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3im7O4/yF/l/ne_NP/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3im7O4\yF\l\ne_NP\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iMAO4/yY/l/mr_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iMAO4\yY\l\mr_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3imF44/yY/l/he_IL/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3imF44\yY\l\he_IL\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3imQp4/ya/l/ne_NP/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3imQp4\ya\l\ne_NP\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3imtG4/y8/l/si_LK/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3imtG4\y8\l\si_LK\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iMXa4/yH/l/uk_UA/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iMXa4\yH\l\uk_UA\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iN0F4/yT/l/cs_CZ/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iN0F4\yT\l\cs_CZ\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iN6v4/yJ/l/ta_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iN6v4\yJ\l\ta_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iN704/yj/l/da_DK/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iN704\yj\l\da_DK\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iNBj4/yL/l/en_US/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iNBj4\yL\l\en_US\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iNCW4/y2/l/pt_BR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iNCW4\y2\l\pt_BR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iND04/yh/l/bn_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iND04\yh\l\bn_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iNFi4/yi/l/sr_RS/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iNFi4\yi\l\sr_RS\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3inGw4/yo/l/sk_SK/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3inGw4\yo\l\sk_SK\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iNK74/yX/l/kn_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iNK74\yX\l\kn_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3inkr4/y6/l/hi_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3inkr4\y6\l\hi_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iNmS4/yN/l/hu_HU/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iNmS4\yN\l\hu_HU\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3inOf4/yk/l/ko_KR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3inOf4\yk\l\ko_KR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3inX04/yf/l/fi_FI/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3inX04\yf\l\fi_FI\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iO6j4/yu/l/tl_PH/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iO6j4\yu\l\tl_PH\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ioi74/yX/l/pt_BR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ioi74\yX\l\pt_BR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iORb4/yr/l/de_DE/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iORb4\yr\l\de_DE\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iORH4/yu/l/ur_PK/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iORH4\yu\l\ur_PK\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ioZU4/yX/l/bg_BG/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ioZU4\yX\l\bg_BG\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iP-v4/y9/l/zh_CN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iP-v4\y9\l\zh_CN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ip4v4/yF/l/si_LK/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ip4v4\yF\l\si_LK\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipaC4/yP/l/te_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipaC4\yP\l\te_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipBA4/y2/l/ar_AR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipBA4\y2\l\ar_AR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iPjr4/yM/l/sr_RS/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iPjr4\yM\l\sr_RS\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipLJ4/yx/l/gu_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipLJ4\yx\l\gu_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipqI4/yF/l/ro_RO/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipqI4\yF\l\ro_RO\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipWv4/y_/l/th_TH/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipWv4\y_\l\th_TH\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipyB4/yC/l/ml_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ipyB4\yC\l\ml_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iPYO4/yB/l/en_GB/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iPYO4\yB\l\en_GB\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iP_-4/yp/l/fr_FR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iP_-4\yp\l\fr_FR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iq4i4/yY/l/hu_HU/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iq4i4\yY\l\hu_HU\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iQaj4/yN/l/he_IL/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iQaj4\yN\l\he_IL\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iqDx4/yx/l/fa_IR/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iqDx4\yx\l\fa_IR\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iqGX4/y9/l/bg_BG/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iqGX4\y9\l\bg_BG\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iqKn4/yW/l/sk_SK/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iqKn4\yW\l\sk_SK\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iQof4/yE/l/ms_MY/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iQof4\yE\l\ms_MY\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iqz14/yD/l/ja_JP/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iqz14\yD\l\ja_JP\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iR434/y6/l/tl_PH/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iR434\y6\l\tl_PH\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ir4k4/y_/l/ml_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ir4k4\y_\l\ml_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRCA4/y6/l/pa_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iRCA4\y6\l\pa_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3irEA4/yN/l/ja_JP/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3irEA4\yN\l\ja_JP\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRI74/yt/l/de_DE/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iRI74\yt\l\de_DE\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRU94/yj/l/hi_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iRU94\yj\l\hi_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRUS4/yh/l/en_GB/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iRUS4\yh\l\en_GB\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ir_t4/y-/l/zh_HK/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ir_t4\y-\l\zh_HK\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iS3M4/yx/l/sv_SE/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iS3M4\yx\l\sv_SE\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iSbe4/yM/l/pa_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iSbe4\yM\l\pa_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3isDZ4/yR/l/nb_NO/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3isDZ4\yR\l\nb_NO\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iSrj4/y5/l/zh_TW/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iSrj4\y5\l\zh_TW\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3itM14/yV/l/ur_PK/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3itM14\yV\l\ur_PK\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iUDy4/y1/l/kn_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iUDy4\y1\l\kn_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iujy4/y7/l/te_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iujy4\y7\l\te_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iuPY4/y3/l/zh_CN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iuPY4\y3\l\zh_CN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iuQC4/yx/l/uk_UA/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iuQC4\yx\l\uk_UA\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iutc4/yZ/l/pt_PT/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iutc4\yZ\l\pt_PT\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iu_t4/yR/l/tr_TR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iu_t4\yR\l\tr_TR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ivKw4/yJ/l/zh_TW/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ivKw4\yJ\l\zh_TW\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iVN44/y0/l/nl_NL/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iVN44\y0\l\nl_NL\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ivZu4/yv/l/si_LK/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ivZu4\yv\l\si_LK\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iw-74/y2/l/ne_NP/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iw-74\y2\l\ne_NP\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iw1o4/yn/l/hi_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iw1o4\yn\l\hi_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iWbv4/yR/l/pl_PL/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iWbv4\yR\l\pl_PL\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iWbW4/y0/l/pt_PT/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iWbW4\y0\l\pt_PT\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iwWN4/ya/l/vi_VN/0sUNKL8DSoK.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iwWN4\ya\l\vi_VN\0sUNKL8DSoK.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iWWX4/y-/l/nb_NO/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iWWX4\y-\l\nb_NO\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iX1d4/y3/l/hu_HU/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iX1d4\y3\l\hu_HU\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iX8a4/yz/l/ru_RU/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iX8a4\yz\l\ru_RU\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iXHt4/yJ/l/nl_NL/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iXHt4\yJ\l\nl_NL\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ixKJ4/yy/l/fr_CA/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ixKJ4\yy\l\fr_CA\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ixM14/yh/l/mr_IN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ixM14\yh\l\mr_IN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iXOu4/yi/l/ta_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iXOu4\yi\l\ta_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ixYU4/yi/l/pa_IN/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3ixYU4\yi\l\pa_IN\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iXzC4/y8/l/el_GR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iXzC4\y8\l\el_GR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iy1n4/yR/l/pl_PL/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iy1n4\yR\l\pl_PL\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iyFv4/yh/l/hi_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iyFv4\yh\l\hi_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iynP4/y7/l/sk_SK/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iynP4\y7\l\sk_SK\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iypY4/yk/l/fr_CA/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iypY4\yk\l\fr_CA\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iYq94/yT/l/zh_CN/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iYq94\yT\l\zh_CN\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iyzn4/yT/l/ml_IN/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iyzn4\yT\l\ml_IN\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZ6Y4/ym/l/pa_IN/5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeAMBI80zJOUIVazEZdt3_yMd5UPmDcSVs87mNxHHCOtfOkbcC-UtiyfwXcJJcLRMZl8IohmRQ2b6892_2rc-dbJt3G5k_Qpbr4pOpKNtD65R1nEcxQ6V5WGTeuD0oRW6UxS60uB6YMeMnA0QvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iZ6Y4\ym\l\pa_IN\5uZoKs8IEJi7G3jabXddbXXPgauytdppKqk308S60MAtCYKWnrp4v1yyd6FW_0niAzCNxbC1vE502bnAZwo-6b5AT0ssfbvsq99d_Wl5sslZ4qf1wcn-Y5ZVK89Vv__-P5w5AvPdnDD7sLwj4t3Y_z6lAvUSQUgqakBgeA.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZCV4/y7/l/nb_NO/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iZCV4\y7\l\nb_NO\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3izf64/yB/l/cs_CZ/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3izf64\yB\l\cs_CZ\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3izos4/yz/l/nl_NL/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3izos4\yz\l\nl_NL\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZr24/yl/l/ko_KR/wEbwIFkWIDi.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3iZr24\yl\l\ko_KR\wEbwIFkWIDi.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i_gL4/yV/l/fa_IR/PaWrCkIhvcq.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i_gL4\yV\l\fa_IR\PaWrCkIhvcq.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i_kJ4/yB/l/ur_PK/tz8Evhy_yZP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\v3i_kJ4\yB\l\ur_PK\tz8Evhy_yZP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/y4/r/QaBlI0OZiks.ico
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\rsrc.php\y4\r\QaBlI0OZiks.ico
+Content Type: image/x-icon
+
+Uri: https://static.pixieset.com/css/vendor/mux-videojs-kit.css
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\css\vendor\mux-videojs-kit.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/fontsets/sans/css/index.css?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\fontsets\sans\css\index.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/js/vendor/JsTranslations/JsTrans.min.js?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\js\vendor\JsTranslations\JsTrans.min.js
+Content Type: application/javascript
+
+Uri: https://static.pixieset.com/release/css/blank.gif
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\blank.gif
+Content Type: image/gif
+
+Uri: https://static.pixieset.com/release/css/client.combined.min.css?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\client.combined.min.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/release/css/default-skin.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\default-skin.png
+Content Type: image/png
+
+Uri: https://static.pixieset.com/release/css/default-skin.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/css/font/entypo-selected.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\font\entypo-selected.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/css/font/entypo-selected.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\font\entypo-selected-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/css/font/entypo-selected.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\font\entypo-selected.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/css/font/entypo-selected.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\font\entypo-selected.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/css/font/entypo-selected.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\font\entypo-selected.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/css/grab.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\grab.png
+Content Type: image/png
+
+Uri: https://static.pixieset.com/release/css/grabbing.png
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\grabbing.png
+Content Type: image/png
+
+Uri: https://static.pixieset.com/release/css/preloader.gif
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\preloader.gif
+Content Type: image/gif
+
+Uri: https://static.pixieset.com/release/css/storefront.combined.min.css?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\css\storefront.combined.min.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/release/js/client.combined.min.js?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\js\client.combined.min.js
+Content Type: application/javascript
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://static.pixieset.com/release/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\release\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://static.pixieset.com/themes/center/css/index.css?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\themes\center\css\index.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/themes/center/js/index.js?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\themes\center\js\index.js
+Content Type: application/javascript
+
+Uri: https://static.pixieset.com/themes/left/css/index.css?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\themes\left\css\index.css
+Content Type: text/css
+
+Uri: https://static.pixieset.com/themes/left/js/index.js?41414e2b8baf706308ae17d9cdf47079
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\themes\left\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-58JKMMCXLP
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.instagram.com/data/manifest.json/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\data\manifest.json\index.htm
+Content Type: application/json
+
+Uri: https://www.instagram.com/photosbyfarkas/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=af
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-12.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=am-et
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-56.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ar
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-51.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=bg
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-42.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=bn
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-31.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=cs
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-13.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=da
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-14.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=de
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-4.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=el
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-15.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=en
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=en-gb
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-53.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=es
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-5.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=es-la
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-48.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=fa
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-50.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=fi
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-16.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=fr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-2.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=fr-ca
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-43.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=gu
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-32.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ha-ng
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-55.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=he
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-49.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=hi
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-30.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=hr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-17.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=hu
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-18.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=id
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-19.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=it
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-3.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ja
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-8.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=kn
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-33.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ko
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-9.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ml
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-34.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=mr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-35.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ms
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-20.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=nb
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-21.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ne
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-39.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=nl
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-22.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=om-et
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-57.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=pa
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-36.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=pl
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-23.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=pt
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-10.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=pt-br
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-11.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ro
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-44.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ru
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-24.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=si
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-40.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=sk
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-25.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=sr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-45.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=sv
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-26.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=sw-ke
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-54.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ta
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-37.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=te
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-38.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=th
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-27.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=tl
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-28.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=tr
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-29.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=uk
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-46.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=ur
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-52.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=vi
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-41.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=zh-cn
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-6.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=zh-hk
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-47.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/photosbyfarkas/?hl=zh-tw
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\photosbyfarkas\index-7.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/young.farkas/
+File Name: C:\Downloaded Web Sites\farkastimiphotography.mypixieset.com\young.farkas\index.htm
+Content Type: text/html
+
