@@ -1,127 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            text-align: center;
-            background: linear-gradient(45deg, #007bff 25%, transparent 25%) 0 0,
-                linear-gradient(-45deg, #007bff 25%, transparent 25%) 0 0,
-                linear-gradient(45deg, transparent 75%, #007bff 75%) 10px 10px,
-                linear-gradient(-45deg, transparent 75%, #007bff 75%) 10px 10px;
-            background-size: 20px 20px;
-            background-color: #f5f5f5;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Not Found</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: #f4f4f4;
+      font-family: 'Arial', sans-serif;
+    }
 
-        .error-container {
-            max-width: 400px;
-            animation: fadeInUp 1s ease-out;
-            background-color: #ffffff;
-            border-radius: 8px;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+    .container {
+      text-align: center;
+    }
 
-        .error-text {
-            font-size: 28px;
-            font-weight: bold;
-            color: #e44d26;
-            margin-bottom: 20px;
-            animation: fadeIn 1s ease-out;
-        }
+    h1 {
+      font-size: 10em;
+      margin: 0;
+      color: #333;
+    }
 
-        .instructions {
-            font-size: 18px;
-            color: #555555;
-            margin-bottom: 20px;
-            animation: fadeIn 1s ease-out;
-        }
+    p {
+      font-size: 1.5em;
+      color: #666;
+    }
 
-        .shapes {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 20px;
+      font-size: 1.2em;
+      text-decoration: none;
+      background-color: #3498db;
+      color: #fff;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
 
-        .shape {
-            width: 20px;
-            height: 20px;
-            background-color: #007bff;
-            margin: 0 5px;
-            border-radius: 50%;
-            animation: pulse 1s infinite;
-        }
+    .button:hover {
+      background-color: #2980b9;
+    }
 
-        .back-link {
-            text-decoration: none;
-            color: #ffffff;
-            font-weight: bold;
-            background-color: #007bff;
-            padding: 10px 20px;
-            border-radius: 5px;
-            display: inline-block;
-            transition: background-color 0.3s ease;
-        }
+    @keyframes heartbeat {
+      0% {
+        transform: scale(1);
+      }
+      25% {
+        transform: scale(1.1);
+      }
+      50% {
+        transform: scale(1);
+      }
+      75% {
+        transform: scale(1.1);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
 
-        .back-link:hover {
-            background-color: #0056b3;
-        }
-
-        @keyframes fadeInUp {
-            from {
-                transform: translateY(20px);
-                opacity: 0;
-            }
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-        }
-
-        @keyframes pulse {
-            0%, 100% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.1);
-            }
-        }
-    </style>
+    h1 {
+      animation: heartbeat 1s infinite;
+    }
+  </style>
 </head>
 <body>
-    <div class="error-container">
-        <div class="error-text">404.. tota povezava nea deluje!</div>
-        <div class="instructions">
-            Falil si ulico oz. kar državo.
-        </div>
-        <div class="shapes">
-            <div class="shape"></div>
-            <div class="shape"></div>
-            <div class="shape"></div>
-        </div>
-        <p>
-            <a href="#" class="back-link">Gas Nazaj!</a>
-        </p>
-    </div>
+  <div class="container">
+    <h1>404</h1>
+    <p>Tota povezava nea deluje! Falil si ulico.. skoraj državo :o/p>
+    <a href="#" class="button" onclick="goBack()">Gas Nazaj!</a>
+  </div>
+
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
 </body>
 </html>
