@@ -1,65 +1,35 @@
 <?php
-require 'vendor/autoload.php';
-
 // Collect form data
-$ime_priimek = $_POST['ime_priimek'];
-$rojstni_datum = $_POST['rojstni_datum'];
-$spol = $_POST['spol'];
-$zdravstvene_posebnosti = $_POST['zdravstvene_posebnosti'];
-$telefonska_stevilka = $_POST['telefonska_stevilka'];
-$e_naslov = $_POST['e_naslov'];
-$naslov = $_POST['naslov'];
-$nogometni_klub = $_POST['nogometni_klub'];
-$treningi = $_POST['treningi'];
-$plavalec = $_POST['plavalec'];
+$ime_priimek = $_POST['ime_priimek'] ?? '';
+$rojstni_datum = $_POST['rojstni_datum'] ?? '';
+$spol = $_POST['spol'] ?? '';
+$zdravstvene_posebnosti = $_POST['zdravstvene_posebnosti'] ?? '';
+$telefonska_stevilka = $_POST['telefonska_stevilka'] ?? '';
+$e_naslov = $_POST['e_naslov'] ?? '';
+$naslov = $_POST['naslov'] ?? '';
+$nogometni_klub = $_POST['nogometni_klub'] ?? '';
+$treningi = $_POST['treningi'] ?? '';
+$plavalec = $_POST['plavalec'] ?? '';
 
-// Create new PHPExcel object
-$objPHPExcel = new PHPExcel();
+// Prepare data string
+$data = "Ime in Priimek: $ime_priimek\n"
+       . "Rojstni Datum: $rojstni_datum\n"
+       . "Spol: $spol\n"
+       . "Zdravstvene posebnosti: $zdravstvene_posebnosti\n"
+       . "Telefonska številka: $telefonska_stevilka\n"
+       . "E-naslov: $e_naslov\n"
+       . "Naslov: $naslov\n"
+       . "Nogometni klub: $nogometni_klub\n"
+       . "Kolikokrat tedensko potekajo treningi: $treningi\n"
+       . "Plavalec: $plavalec\n\n"; // Add an extra newline character
 
-// Set document properties
-$objPHPExcel->getProperties()->setCreator("Your Name")
-                             ->setLastModifiedBy("Your Name")
-                             ->setTitle("Prijava na športno dejavnost")
-                             ->setSubject("Prijava")
-                             ->setDescription("Form data")
-                             ->setKeywords("prijava form data")
-                             ->setCategory("Form data");
+// Define file path
+$file_path = 'form_data.txt';
 
-// Add data
-$objPHPExcel->setActiveSheetIndex(0)
-            ->setCellValue('A1', 'Ime in Priimek')
-            ->setCellValue('B1', 'Rojstni Datum')
-            ->setCellValue('C1', 'Spol')
-            ->setCellValue('D1', 'Zdravstvene posebnosti')
-            ->setCellValue('E1', 'Telefonska številka')
-            ->setCellValue('F1', 'E-naslov')
-            ->setCellValue('G1', 'Naslov')
-            ->setCellValue('H1', 'Nogometni klub')
-            ->setCellValue('I1', 'Kolikokrat tedensko potekajo treningi')
-            ->setCellValue('J1', 'Plavalec');
-
-$objPHPExcel->setActiveSheetIndex(0)
-            ->setCellValue('A2', $ime_priimek)
-            ->setCellValue('B2', $rojstni_datum)
-            ->setCellValue('C2', $spol)
-            ->setCellValue('D2', $zdravstvene_posebnosti)
-            ->setCellValue('E2', $telefonska_stevilka)
-            ->setCellValue('F2', $e_naslov)
-            ->setCellValue('G2', $naslov)
-            ->setCellValue('H2', $nogometni_klub)
-            ->setCellValue('I2', $treningi)
-            ->setCellValue('J2', $plavalec);
-
-// Rename worksheet
-$objPHPExcel->getActiveSheet()->setTitle('Prijava');
-
-// Redirect output to a client’s web browser (Excel5)
-header('Content-Type: application/vnd.ms-excel');
-header('Content-Disposition: attachment;filename="prijava.xlsx"');
-header('Cache-Control: max-age=0');
-
-$objWriter = PHPExcel_IOFactory::createWriter($objPHPExcel, 'Excel2007');
-$objWriter->save('php://output');
-
-exit;
+// Write data to file
+if (file_put_contents($file_path, $data, FILE_APPEND | LOCK_EX) !== false) {
+    echo 'Form data has been saved successfully.';
+} else {
+    echo 'Failed to save form data.';
+}
 ?>
