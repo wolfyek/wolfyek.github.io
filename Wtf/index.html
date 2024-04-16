@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prijava na športno dejavnost</title>
+</head>
+<body>
+    <h2>Prijava na športno dejavnost</h2>
+    <form action="submit.php" method="post">
+        <label for="ime_priimek">Ime in Priimek udeleženca/ke:</label>
+        <input type="text" id="ime_priimek" name="ime_priimek" required><br><br>
+        
+        <label for="rojstni_datum">Rojstni Datum udeleženca/ke:</label>
+        <input type="text" id="rojstni_datum" name="rojstni_datum" required><br><br>
+        
+        <label>Spol udeleženca/ke:</label><br>
+        <input type="radio" id="spol_moski" name="spol" value="Moški" required>
+        <label for="spol_moski">Moški</label><br>
+        <input type="radio" id="spol_zenski" name="spol" value="Ženski">
+        <label for="spol_zenski">Ženski</label><br><br>
+        
+        <label for="zdravstvene_posebnosti">Zdravstvene posebnosti in druga opozorila:</label><br>
+        <textarea id="zdravstvene_posebnosti" name="zdravstvene_posebnosti"></textarea><br><br>
+        
+        <label for="telefonska_stevilka">Telefonska številka starša ali skrbnika:</label>
+        <input type="tel" id="telefonska_stevilka" name="telefonska_stevilka" pattern="[0-9]{9}" required><br><br>
+        
+        <label for="e_naslov">E-naslov starša ali zakonitega skrbnika:</label>
+        <input type="email" id="e_naslov" name="e_naslov" required><br><br>
+        
+        <label for="naslov">Naslov za pošiljanje pošta:</label>
+        <input type="text" id="naslov" name="naslov" required><br><br>
+        
+        <label for="nogometni_klub">Nogometni klub, v katerem udeleženec trenira:</label>
+        <input type="text" id="nogometni_klub" name="nogometni_klub" required><br><br>
+        
+        <label for="treningi">Kolikokrat tedensko potekajo treningi:</label>
+        <select id="treningi" name="treningi" required>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+        </select><br><br>
+        
+        <label>Ali je udeleženec plavalec:</label><br>
+        <input type="radio" id="plavalec_da" name="plavalec" value="Ja" required>
+        <label for="plavalec_da">Ja</label><br>
+        <input type="radio" id="plavalec_ne" name="plavalec" value="Ne">
+        <label for="plavalec_ne">Ne</label><br><br>
+        
+        <input type="submit" value="Oddaj Prijavo">
+    </form>
+</body>
+</html>
