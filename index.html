@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="sl-SI">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ćevabdžinica Erniša | Official Website</title>
+  <script type="module" crossorigin src="./main2.js"></script>
+  <link rel="stylesheet" crossorigin href="./main.css">
+</head>
+<body>
+
+    <header class="header" id="header">
+        <div class="container nav">
+            <a href="#" class="logo-link">
+                <img src="./logo_ernisa_bela.png" alt="Erniša" class="logo-img">
+            </a>
+            
+            <ul class="nav-links">
+                <li><a href="#domov" class="active" data-i18n="navHome">Domov</a></li>
+                <li><a href="#zgodba" data-i18n="navStory">Zgodba</a></li>
+                <li><a href="#galerija" data-i18n="navGallery">Galerija</a></li>
+                <li><a href="#meni" data-i18n="navMenu">Meni</a></li>
+                <li><a href="#kontakt" data-i18n="navReservation">Rezervacija</a></li>
+                <!-- Language Switcher in Mobile Nav -->
+                <li class="lang-switcher-mobile">
+                    <button class="lang-btn active" data-lang="sl">SL</button>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                    <button class="lang-btn" data-lang="de">DE</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="hu">HU</button>
+                </li>
+            </ul>
+
+            <div class="header-right hidden-mobile">
+                <!-- Language Switcher Desktop -->
+                <div class="lang-switcher">
+                    <button class="lang-btn active" data-lang="sl">SL</button>
+                    <span class="lang-sep">|</span>
+                    <button class="lang-btn" data-lang="en">EN</button>
+                    <span class="lang-sep">|</span>
+                    <button class="lang-btn" data-lang="de">DE</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="hu">HU</button>
+                </div>
+                <a href="#kontakt" class="btn" data-i18n="btnBookTable">Rezerviraj mizo</a>
+            </div>
+            
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero" id="domov">
+            <div class="hero-bg"></div>
+            <div class="hero-overlay"></div>
+            
+            <div class="container">
+                <div class="hero-content">
+                    <span class="hero-subtitle fade-up" data-i18n="heroSubtitle">Balkanska Kulinarična Umetnost</span>
+                    <h1 class="hero-title fade-up delay-1">
+                        <span style="display:inline;" data-i18n="heroTitle1">Dobrodošli</span><br><span data-i18n="heroTitle2">pri Ćevabdžinici Erniša</span>
+                    </h1>
+                    <p class="hero-description fade-up delay-2" data-i18n="heroDesc">
+                        Pristen okus žara, povzdignjen na nivo vrhunske kulinarike. Skrbno izbrane sestavine, tradicija in strast v vsakem grižljaju.
+                    </p>
+                    <div class="fade-up delay-3">
+                        <a href="#meni" class="btn btn-gold" data-i18n="heroBtn">Naš Meni</a>
+                    </div>
+                </div>
+                <!-- Scroll Indicator -->
+                <div class="scroll-indicator">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                </div>
+            </div>
+        </section>
+
+        <section class="about" id="zgodba">
+            <div class="container about-grid">
+                <div class="about-image fade-up">
+                    <img src="./O-nas_Ernisa.jpg" alt="Ambient Erniša">
+                </div>
+                <div class="about-content">
+                    <h2 class="section-heading text-reveal visible">
+                        <span style="display:inline;" data-i18n="aboutTitle1">Tradicija,</span><br><em data-i18n="aboutTitle2">na novo definirana.</em>
+                    </h2>
+                    <div class="fade-up delay-1">
+                        <p data-i18n="aboutP1">Družina Erniša vas vabi v sodobno zasnovan ambient v srcu Prekmurja, kjer tradicionalne balkanske specialitete zaživijo v novi, prefinjeni luči.</p>
+                        <p data-i18n="aboutP2">Od naših korenin v vinogradništvu do premium čevabdžinice – naša predanost kvaliteti in gostoljubju ostaja naša glavna vodila. Ogenj, meso in skrbno izbrane začimbe ustvarjajo simfonijo okusov.</p>
+                        <a href="#kontakt" class="btn" style="margin-top: 2rem;" data-i18n="aboutBtn">Doživite Ernišo</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="gallery" id="galerija">
+            <div class="container">
+                <div class="gallery-header fade-up">
+                    <span class="hero-subtitle" style="text-align: center;" data-i18n="galSubtitle">Vizualno Doživetje</span>
+                    <h2 class="section-heading" style="text-align: center; margin-bottom: 4rem;"><span style="display:inline;" data-i18n="galTitle1">Naša </span><em data-i18n="galTitle2">galerija</em></h2>
+                </div>
+                <div class="gallery-carousel fade-up delay-1">
+
+                    <!-- Slide 1 -->
+                    <div class="gallery-slide active">
+                        <div class="gallery-img-vertical"><img src="./gal1.jpg" alt="Galerija slika 1"></div>
+                        <div class="gallery-img-vertical"><img src="./gal2.jpg" alt="Galerija slika 2"></div>
+                        <div class="gallery-img-vertical"><img src="./gal3.jpg" alt="Galerija slika 3"></div>
+                    </div>
+                    <!-- Slide 2 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal13.jpg" alt="Galerija slika 13"></div>
+                        <div class="gallery-img-vertical"><img src="./gal5.jpg" alt="Galerija slika 5"></div>
+                        <div class="gallery-img-vertical"><img src="./gal4.jpg" alt="Galerija slika 4"></div>
+                    </div>
+                    <!-- Slide 3 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal6.jpg" alt="Galerija slika 6"></div>
+                        <div class="gallery-img-vertical"><img src="./gal9.jpg" alt="Galerija slika 9"></div>
+                        <div class="gallery-img-vertical"><img src="./gal8.jpg" alt="Galerija slika 8"></div>
+                    </div>
+                    <!-- Slide 4 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal10.jpg" alt="Galerija slika 10"></div>
+                        <div class="gallery-img-vertical"><img src="./gal7.jpg" alt="Galerija slika 7"></div>
+                        <div class="gallery-img-vertical"><img src="./gal12.jpg" alt="Galerija slika 12"></div>
+                    </div>
+                    <!-- Slide 5 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal14.jpg" alt="Galerija slika 14"></div>
+                        <div class="gallery-img-vertical"><img src="./gal11.jpg" alt="Galerija slika 11"></div>
+                        <div class="gallery-img-vertical"><img src="./gal15.jpg" alt="Galerija slika 15"></div>
+                    </div>
+                    <!-- Slide 6 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal17.jpg" alt="Galerija slika 17"></div>
+                        <div class="gallery-img-vertical"><img src="./gal16.jpg" alt="Galerija slika 16"></div>
+                        <div class="gallery-img-vertical"><img src="./gal18.jpg" alt="Galerija slika 18"></div>
+                    </div>
+                    <!-- Slide 7 -->
+                    <div class="gallery-slide">
+                        <div class="gallery-img-vertical"><img src="./gal19.jpg" alt="Galerija slika 19"></div>
+                        <div class="gallery-img-vertical"><img src="./gal21.jpg" alt="Galerija slika 21"></div>
+                        <div class="gallery-img-vertical"><img src="./gal20.jpg" alt="Galerija slika 20"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="menu" id="meni">
+            <div class="container">
+                <div class="menu-header fade-up">
+                    <span class="hero-subtitle" data-i18n="menuSubtitle">Kulinarično popotovanje</span>
+                    <h2 class="section-heading"><span style="display:inline;" data-i18n="menuTitle1">Naš </span><em data-i18n="menuTitle2">meni</em></h2>
+                    
+                    <div class="menu-categories fade-up delay-1">
+                        <button class="category-btn active" data-category="vse" data-i18n="catAll">Vse</button>
+                        <button class="category-btn" data-category="predjedi" data-i18n="catStarters">Tradicionalne predjedi</button>
+                        <button class="category-btn" data-category="glavne-zar" data-i18n="catGrill">Glavne jedi z žara</button>
+                        <button class="category-btn" data-category="glavne" data-i18n="catMain">Glavne jedi</button>
+                        <button class="category-btn" data-category="priloge" data-i18n="catSides">Priloge</button>
+                        <button class="category-btn" data-category="solata" data-i18n="catSalad">Solata kot priloga</button>
+                        <button class="category-btn" data-category="dodatki" data-i18n="catExtras">Dodatki</button>
+                        <button class="category-btn" data-category="sladice" data-i18n="catDesserts">Sladice</button>
+                    </div>
+                </div>
+
+                <div class="menu-grid fade-up delay-2">
+                    
+                    <!-- Predjedi -->
+                    <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPaprika">Marinirane pečene paprike</h3>
+                            <p class="menu-item-desc" data-i18n="mPaprikaDesc">Vložene paprike, pečene nad odprtim ognjem, marinirane s česnom, z rahlo sladkobo in nežno dimljeno aromo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,40</span>
+                    </div>
+                    <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheese">Pečeni ovčji sir</h3>
+                            <p class="menu-item-desc" data-i18n="mCheeseDesc">Zlatorumeno pečen ovčji sir, postrežen s paradižnikom in česnom. Kremast in polnega okusa – pravi balkanski užitek za srce in čute.</p>
+                        </div>
+                        <span class="menu-item-price">€ 8,10</span>
+                    </div>
+                    <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCuts">Gorička šunka na krožniku</h3>
+                            <p class="menu-item-desc" data-i18n="mCutsDesc">Gorička šunka kot izbrana mesna specialiteta, postrežena s sirom, paradižnikom, vloženimi kumaricami, hrenom in domačo zaseko. Postrežena s kruhom ali toplo pečeno lepinjo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 12,30</span>
+                    </div>
+                    <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMushSoup">Gobova juha</h3>
+                            <p class="menu-item-desc" data-i18n="mMushSoupDesc">Kremna juha izključno iz svežih gob – brez moke ali krompirja.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+                    <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mGoulashSoup">Golaževa juha</h3>
+                            <p class="menu-item-desc" data-i18n="mGoulashSoupDesc">Krepka juha z mehko govedino in papriko.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,50</span>
+                    </div>
+
+                    <!-- Glavne z Zara -->
+                    <div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCevapi6">Čevapčiči mali – 6 kosov</h3>
+                            <p class="menu-item-desc" data-i18n="mCevapi6Desc">Šest sočno pečenih čevapčičev z izrazito začimbo in nežno dimljeno noto – popolni za manjši balkanski užitek.</p>
+                        </div>
+                        <span class="menu-item-price">€ 12,90</span>
+                    </div>
+                    <div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCevapi9">Čevapčiči veliki – 9 kosov</h3>
+                            <p class="menu-item-desc" data-i18n="mCevapi9Desc">Devet pristnih klasik z žara, aromatičnih in polnega okusa – idealna porcija za prave gurmane.</p>
+                        </div>
+                        <span class="menu-item-price">€ 15,90</span>
+                    </div>
+                    <div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPleskavica">Pleskavica</h3>
+                            <p class="menu-item-desc" data-i18n="mPleskavicaDesc">Popolno zapečena, aromatična in polnega okusa – pravi užitek na enem kosu.</p>
+                        </div>
+                        <span class="menu-item-price">€ 14,90</span>
+                    </div>
+
+                    <!-- Glavne -->
+                    <div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mSausage">Domača kranjska klobasa</h3>
+                            <p class="menu-item-desc" data-i18n="mSausageDesc">Postrežena z zlato ocvrtimi krompirjevimi rezinami, gorčico in svežim hrenom. Po želji tudi s kruhom in vloženim zeljem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+                    <div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mWings">Ocvrte perutničke</h3>
+                            <p class="menu-item-desc" data-i18n="mWingsDesc">Hrskavo ocvrte, znotraj sočne in aromatične, postrežene s hrustljavim pomfrijem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+                    <div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mFriedChicken">Panirani piščančji file</h3>
+                            <p class="menu-item-desc" data-i18n="mFriedChickenDesc">Zlatorumeno ocvrt, postrežen s pomfrijem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 15,90</span>
+                    </div>
+                    <div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheeseSalad">Pečen ovčji sir z veliko solato</h3>
+                            <p class="menu-item-desc" data-i18n="mCheeseSaladDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+
+                    <!-- Priloge -->
+                    <div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mBeans">Prebranec - zapečen</h3>
+                            <p class="menu-item-desc" data-i18n="mBeansDesc">Fižol tetovec z rdečo čebulo in balkanskimi začimbami, zapečen v pečici.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mFries">Pomfri</h3>
+                            <p class="menu-item-desc" data-i18n="mFriesDesc">Postrežen s kečapom ali majonezo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+                    <div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mBread">Lepinja</h3>
+                            <p class="menu-item-desc" data-i18n="mBreadDesc">Dve topli balkanski lepinji.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,90</span>
+                    </div>
+                    <div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mKajmak">Kajmak</h3>
+                            <p class="menu-item-desc" data-i18n="mKajmakDesc">Kremasta balkanska mlečna specialiteta, blagega okusa in mazave teksture.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+
+                    <!-- Solata kot priloga -->
+                    <div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCabbage">Zeljna solata</h3>
+                            <p class="menu-item-desc" data-i18n="mCabbageDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+                    <div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mTomatoSalad">Paradižnikova solata s čebulo</h3>
+                            <p class="menu-item-desc" data-i18n="mTomatoSaladDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+                    <div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMixedSaladSmall">Mešana solata – mala</h3>
+                            <p class="menu-item-desc" data-i18n="mMixedSaladSmallDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+                    <div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMixedSaladBig">Mešana solata – velika</h3>
+                            <p class="menu-item-desc" data-i18n="mMixedSaladBigDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 5,50</span>
+                    </div>
+
+                    <!-- Dodatki -->
+                    <div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mOnion">Porcija čebule začinjena s papriko</h3>
+                            <p class="menu-item-desc" data-i18n="mOnionDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 1,00</span>
+                    </div>
+                    <div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mAjvar">Ajvar (blag ali pekoč) / gorčica</h3>
+                            <p class="menu-item-desc" data-i18n="mAjvarDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 1,50</span>
+                    </div>
+                    <div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPindjur">Pinđur</h3>
+                            <p class="menu-item-desc" data-i18n="mPindjurDesc">Balkanska specialiteta iz počasi kuhanih paprik in paradižnika, aromatična in polnega okusa.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,50</span>
+                    </div>
+
+                    <!-- Sladice -->
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcecream">Mešano sladoledno razvajanje</h3>
+                            <p class="menu-item-desc" data-i18n="mIcecreamDesc">Tri kepice sladoleda po izbiri. Postreženo z ali brez stepene smetane.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,00 / € 4,50</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcecreamBerries">Sladoled z vročimi gozdnimi sadeži</h3>
+                            <p class="menu-item-desc" data-i18n="mIcecreamBerriesDesc">Tri kepice bourbon vanilijevega sladoleda z vročimi gozdnimi sadeži in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCup">Danska kupa / Švedska kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mCupDesc">Tri kepice bourbon vanilijevega sladoleda s stepeno smetano in čokoladnim prelivom. / smetano in jajčnim likerjem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mChoco">Čokoladne sanje</h3>
+                            <p class="menu-item-desc" data-i18n="mChocoDesc">Rahel čokoladni sufle, postrežen z bourbon vanilijevim sladoledom in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPancakes">Domače palačinke</h3>
+                            <p class="menu-item-desc" data-i18n="mPancakesDesc">Dve sveže pečeni palačinki z nadevom po izbiri: Nutella ali marmelada. Postreženo z dvema kepicama bourbon vanilijevega sladoleda in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mChocoCup">Čokoladna kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mChocoCupDesc">Sladoled od bourbon vanilije in čokolade, čokoladni preliv in smetana.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheesecake">Cheesecaake</h3>
+                            <p class="menu-item-desc" data-i18n="mCheesecakeDesc">Svež cheesecake s kepico sladoleda iz gozdnih sadežev in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mAffogato">Affogato</h3>
+                            <p class="menu-item-desc" data-i18n="mAffogatoDesc">Kepica bourbon vanilijevega sladoleda prelita z vročim espressom.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,60</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcedCoffee">Ledena kava</h3>
+                            <p class="menu-item-desc" data-i18n="mIcedCoffeeDesc">Bourbon vanilijev sladoled, dvojni espresso,mleko, smetana.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,60</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mVanillaScoop">Kepica bourbon vanilije</h3>
+                            <p class="menu-item-desc" data-i18n="mVanillaScoopDesc">Prelita s baileys ali z jajčnim likerjem in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,90</span>
+                    </div>
+                    <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCrocantCup">Krokantna kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mCrocantCupDesc">Sladoled od bourbon vanilije in čokolade, prelit s kavnim likerjem, posut s krokantom in obložen s stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+</div>
+            </div>
+        </section>
+
+        <section class="contact" id="kontakt">
+            <div class="container contact-grid">
+                <div class="contact-info fade-up">
+                    <h2 class="section-heading"><em data-i18n="contactTitle1">Rezervirajte</em> <span style="display:inline;" data-i18n="contactTitle2">mizo</span></h2>
+                    <p data-i18n="contactDesc">Za zagotovitev vaše kulinarične izkušnje priporočamo predhodno rezervacijo. Vaše mize skrbno pripravimo za vaš prihod.</p>
+                    
+                    <div class="info-block">
+                        <span class="info-label" data-i18n="telLabel">Telefonska rezervacija</span>
+                        <a href="tel:+38651225000" class="info-value">+386 51 225 000</a><br>
+                        <a href="tel:+38631562666" class="info-value">+386 31 562 666</a>
+                    </div>
+
+                    <div class="info-block">
+                        <span class="info-label" data-i18n="locLabel">Lokacija</span>
+                        <span class="info-value">Suhi Vrh 131, Fokovci</span>
+                    </div>
+                    
+                    <div class="map-wrapper fade-up delay-1" style="margin-bottom: 2rem; overflow: hidden;">
+                        <iframe width="100%" height="180" src="https://maps.google.com/maps?q=Suhi%20Vrh%20131,%209208%20Fokovci&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="filter: grayscale(100%) invert(100%) contrast(85%); opacity: 0.8; transition: var(--transition-fast);"></iframe>
+                    </div>
+
+                    <div class="info-block">
+                        <span class="info-label" data-i18n="timeLabel">Odpiralni čas</span>
+                        <span class="info-value" style="font-size: 1.1rem; font-family: var(--font-body); font-weight: 300; line-height: 1.8;">
+                            <span style="color: var(--accent-gold);" data-i18n="timeClosed">Ponedeljek & Torek: ZAPRTO</span><br>
+                            <span data-i18n="timeWedFri">Sreda – Petek: 16:30 – 21:00</span><br>
+                            <span data-i18n="timeSat">Sobota: 12:00 – 23:00</span><br>
+                            <span data-i18n="timeSun">Nedelja: 12:00 – 21:00</span>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="contact-form fade-up delay-1" style="display: flex; flex-direction: column; justify-content: center;">
+                    <form class="reservation-form" action="https://formsubmit.co/hello@cevabdzinica.si" method="POST">
+                        <div class="form-group">
+                            <label class="info-label" style="margin-bottom: 0.5rem;" data-i18n="formName">Ime in priimek</label>
+                            <input type="text" name="name" class="minimal-input i18n-pl" data-i18n-pl="formNamePl" placeholder="Vaše ime in priimek" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="info-label" style="margin-bottom: 0.5rem;" data-i18n="formEmail">E-poštni naslov</label>
+                            <input type="email" name="email" class="minimal-input i18n-pl" data-i18n-pl="formEmailPl" placeholder="Vaš e-poštni naslov" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="info-label" style="margin-bottom: 0.5rem;" data-i18n="formMsg">Sporočilo</label>
+                            <textarea name="message" class="minimal-input i18n-pl" data-i18n-pl="formMsgPl" placeholder="Vaše vprašanje ali mnenje..." rows="4" style="resize: none; font-family: var(--font-body);" required></textarea>
+                        </div>
+                        <input type="hidden" name="_captcha" value="false">
+                        <button type="submit" class="btn btn-gold submit-btn" style="margin-top: 1.5rem;" data-i18n="formSendBtn">Pošlji sporočilo</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content fade-up">
+                <div class="footer-center">
+                    <div class="footer-links-center">
+                        <a href="#domov" data-i18n="navHome">Domov</a>
+                        <a href="#zgodba" data-i18n="navStory">Zgodba</a>
+                        <a href="#galerija" data-i18n="navGallery">Galerija</a>
+                        <a href="#meni" data-i18n="navMenu">Meni</a>
+                        <a href="#kontakt" data-i18n="footerRes">Rezervacije</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom fade-up delay-1">
+                <p><span data-i18n="footerCopy">© 2026 Ćevabdžinica Erniša. Spletno stran ustvaril: </span><a href="https://farkastimi.si" target="_blank" style="color: var(--accent-gold); text-decoration: none;">Farkaš Timi</a></p>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/cevabdzinicaernisa/" target="_blank" aria-label="Instagram">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+                    </a>
+                    <a href="https://www.facebook.com/p/%C4%86evabd%C5%BEinica-Erni%C5%A1a-61577235354468" target="_blank" aria-label="Facebook">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cookie Popup -->
+    <div class="cookie-popup" id="cookiePopup">
+        <div class="cookie-content">
+            <h3 data-i18n="cookieTitle">Uporabljamo piškotke</h3>
+            <p data-i18n="cookieDesc">Za najboljšo uporabniško izkušnjo na naši strani uporabljamo piškotke.</p>
+        </div>
+        <button class="btn btn-gold cookie-btn" id="acceptCookies" data-i18n="cookieBtn">Sprejmem</button>
+    </div>
+
+</body>
+</html>

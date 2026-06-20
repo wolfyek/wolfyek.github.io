@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="sl-SI">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ćevabdžinica Erniša | Official Website</title>
+  <script type="module" crossorigin src="./main2.js"></script>
+  <link rel="stylesheet" crossorigin href="./main.css">
+</head>
+
+
+
+<body>
+    <style>
+        .drinks-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem 2rem;
+        }
+        
+        .drinks-grid .menu-item {
+            gap: 0.5rem;
+        }
+
+        .drinks-grid .menu-item-title {
+            font-size: 1rem;
+        }
+
+        .drinks-grid .menu-item-desc {
+            font-size: 0.85rem;
+            margin-top: 0.2rem;
+        }
+
+        .drinks-grid .menu-item-price {
+            font-size: 1rem;
+            font-weight: 500;
+        }
+
+        @media (max-width: 600px) {
+            .drinks-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* Make food items a bit smaller too since user says "everything feels big" */
+        .food-list .menu-item-title {
+            font-size: 1.3rem;
+        }
+        .food-list .menu-item-price {
+            font-size: 1.3rem;
+        }
+    
+        .menu-item-title {
+            line-height: 1.4;
+            margin-bottom: 0.2rem;
+        }
+    </style>
+    <header style="display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; background: var(--bg-dark);  border-bottom: 1px solid rgba(212, 175, 55, 0.2);">
+        <div style="width: 80px;"></div>
+        <a href="/" class="logo">
+            <img src="./logo_ernisa_bela.png" alt="Erniša Logo" class="logo-img" style="height: 60px;">
+        </a>
+        <div class="lang-switcher-desktop" style="display: flex; gap: 0.5rem;">
+            <button class="lang-btn active" data-lang="sl">SL</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="en">EN</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="de">DE</button>
+            <span class="lang-sep">|</span>
+            <button class="lang-btn" data-lang="hu">HU</button>
+        </div>
+    </header>
+
+    <main style="padding: 2rem 1rem; max-width: 800px; margin: 0 auto;">
+
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_predjedi">ZA ZAČETEK</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPaprika">Marinirane pečene paprike</h3>
+                            <p class="menu-item-desc" data-i18n="mPaprikaDesc">Vložene paprike, pečene nad odprtim ognjem, marinirane s česnom, z rahlo sladkobo in nežno dimljeno aromo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,40</span>
+                    </div>
+<div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheese">Pečeni ovčji sir</h3>
+                            <p class="menu-item-desc" data-i18n="mCheeseDesc">Zlatorumeno pečen ovčji sir, postrežen s paradižnikom in česnom. Kremast in polnega okusa – pravi balkanski užitek za srce in čute.</p>
+                        </div>
+                        <span class="menu-item-price">€ 8,10</span>
+                    </div>
+<div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCuts">Gorička šunka na krožniku</h3>
+                            <p class="menu-item-desc" data-i18n="mCutsDesc">Gorička šunka kot izbrana mesna specialiteta, postrežena s sirom, paradižnikom, vloženimi kumaricami, hrenom in domačo zaseko. Postrežena s kruhom ali toplo pečeno lepinjo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 12,30</span>
+                    </div>
+<div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMushSoup">Gobova juha</h3>
+                            <p class="menu-item-desc" data-i18n="mMushSoupDesc">Kremna juha izključno iz svežih gob – brez moke ali krompirja.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+<div class="menu-item" data-category="predjedi">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mGoulashSoup">Golaževa juha</h3>
+                            <p class="menu-item-desc" data-i18n="mGoulashSoupDesc">Krepka juha z mehko govedino in papriko.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_glavne_zar">Z ŽARA</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCevapi6">Čevapčiči mali – 6 kosov</h3>
+                            <p class="menu-item-desc" data-i18n="mCevapi6Desc">Šest sočno pečenih čevapčičev z izrazito začimbo in nežno dimljeno noto – popolni za manjši balkanski užitek.</p>
+                        </div>
+                        <span class="menu-item-price">€ 12,90</span>
+                    </div>
+<div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCevapi9">Čevapčiči veliki – 9 kosov</h3>
+                            <p class="menu-item-desc" data-i18n="mCevapi9Desc">Devet pristnih klasik z žara, aromatičnih in polnega okusa – idealna porcija za prave gurmane.</p>
+                        </div>
+                        <span class="menu-item-price">€ 15,90</span>
+                    </div>
+<div class="menu-item" data-category="glavne-zar">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPleskavica">Pleskavica</h3>
+                            <p class="menu-item-desc" data-i18n="mPleskavicaDesc">Popolno zapečena, aromatična in polnega okusa – pravi užitek na enem kosu.</p>
+                        </div>
+                        <span class="menu-item-price">€ 14,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_glavne">JEDI IZ KUHINJE</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mSausage">Domača kranjska klobasa</h3>
+                            <p class="menu-item-desc" data-i18n="mSausageDesc">Postrežena z zlato ocvrtimi krompirjevimi rezinami, gorčico in svežim hrenom. Po želji tudi s kruhom in vloženim zeljem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+<div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mWings">Ocvrte perutničke</h3>
+                            <p class="menu-item-desc" data-i18n="mWingsDesc">Hrskavo ocvrte, znotraj sočne in aromatične, postrežene s hrustljavim pomfrijem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+<div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mFriedChicken">Panirani piščančji file</h3>
+                            <p class="menu-item-desc" data-i18n="mFriedChickenDesc">Zlatorumeno ocvrt, postrežen s pomfrijem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 15,90</span>
+                    </div>
+<div class="menu-item" data-category="glavne">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheeseSalad">Pečen ovčji sir z veliko solato</h3>
+                            <p class="menu-item-desc" data-i18n="mCheeseSaladDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 11,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_priloge">PRILOGE</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mBeans">Prebranec - zapečen</h3>
+                            <p class="menu-item-desc" data-i18n="mBeansDesc">Fižol tetovec z rdečo čebulo in balkanskimi začimbami, zapečen v pečici.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mFries">Pomfri</h3>
+                            <p class="menu-item-desc" data-i18n="mFriesDesc">Postrežen s kečapom ali majonezo.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+<div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mBread">Lepinja</h3>
+                            <p class="menu-item-desc" data-i18n="mBreadDesc">Dve topli balkanski lepinji.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,90</span>
+                    </div>
+<div class="menu-item" data-category="priloge">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mKajmak">Kajmak</h3>
+                            <p class="menu-item-desc" data-i18n="mKajmakDesc">Kremasta balkanska mlečna specialiteta, blagega okusa in mazave teksture.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_solata">SOLATE</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCabbage">Zeljna solata</h3>
+                            <p class="menu-item-desc" data-i18n="mCabbageDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mTomatoSalad">Paradižnikova solata s čebulo</h3>
+                            <p class="menu-item-desc" data-i18n="mTomatoSaladDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+<div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMixedSaladSmall">Mešana solata – mala</h3>
+                            <p class="menu-item-desc" data-i18n="mMixedSaladSmallDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+<div class="menu-item" data-category="solata">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mMixedSaladBig">Mešana solata – velika</h3>
+                            <p class="menu-item-desc" data-i18n="mMixedSaladBigDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 5,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_dodatki">DODATKI</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mOnion">Porcija čebule začinjena s papriko</h3>
+                            <p class="menu-item-desc" data-i18n="mOnionDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 1,00</span>
+                    </div>
+<div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mAjvar">Ajvar (blag ali pekoč) / gorčica</h3>
+                            <p class="menu-item-desc" data-i18n="mAjvarDesc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 1,50</span>
+                    </div>
+<div class="menu-item" data-category="dodatki">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPindjur">Pinđur</h3>
+                            <p class="menu-item-desc" data-i18n="mPindjurDesc">Balkanska specialiteta iz počasi kuhanih paprik in paradižnika, aromatična in polnega okusa.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_sladice">SLADICE</h2>
+        <div class="food-list" style="display: flex; flex-direction: column; gap: 1.5rem;">
+            <div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcecream">Mešano sladoledno razvajanje</h3>
+                            <p class="menu-item-desc" data-i18n="mIcecreamDesc">Tri kepice sladoleda po izbiri. Postreženo z ali brez stepene smetane.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,00 / € 4,50</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcecreamBerries">Sladoled z vročimi gozdnimi sadeži</h3>
+                            <p class="menu-item-desc" data-i18n="mIcecreamBerriesDesc">Tri kepice bourbon vanilijevega sladoleda z vročimi gozdnimi sadeži in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCup">Danska kupa / Švedska kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mCupDesc">Tri kepice bourbon vanilijevega sladoleda s stepeno smetano in čokoladnim prelivom. / smetano in jajčnim likerjem.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mChoco">Čokoladne sanje</h3>
+                            <p class="menu-item-desc" data-i18n="mChocoDesc">Rahel čokoladni sufle, postrežen z bourbon vanilijevim sladoledom in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mPancakes">Domače palačinke</h3>
+                            <p class="menu-item-desc" data-i18n="mPancakesDesc">Dve sveže pečeni palačinki z nadevom po izbiri: Nutella ali marmelada. Postreženo z dvema kepicama bourbon vanilijevega sladoleda in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mChocoCup">Čokoladna kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mChocoCupDesc">Sladoled od bourbon vanilije in čokolade, čokoladni preliv in smetana.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCheesecake">Cheesecaake</h3>
+                            <p class="menu-item-desc" data-i18n="mCheesecakeDesc">Svež cheesecake s kepico sladoleda iz gozdnih sadežev in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mAffogato">Affogato</h3>
+                            <p class="menu-item-desc" data-i18n="mAffogatoDesc">Kepica bourbon vanilijevega sladoleda prelita z vročim espressom.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,60</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mIcedCoffee">Ledena kava</h3>
+                            <p class="menu-item-desc" data-i18n="mIcedCoffeeDesc">Bourbon vanilijev sladoled, dvojni espresso,mleko, smetana.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,60</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mVanillaScoop">Kepica bourbon vanilije</h3>
+                            <p class="menu-item-desc" data-i18n="mVanillaScoopDesc">Prelita s baileys ali z jajčnim likerjem in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,90</span>
+                    </div>
+<div class="menu-item" data-category="sladice">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="mCrocantCup">Krokantna kupa</h3>
+                            <p class="menu-item-desc" data-i18n="mCrocantCupDesc">Sladoled od bourbon vanilije in čokolade, prelit s kavnim likerjem, posut s krokantom in obložen s stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 5,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_pijace">BREZALKOHOLNE PIJAČE</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCola">Coca Cola / Zero</h3>
+                            <p class="menu-item-desc">0,25l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dFanta">Fanta</h3>
+                            <p class="menu-item-desc">0,25l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dSprite">Sprite</h3>
+                            <p class="menu-item-desc">0,25l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCockta">Cockta</h3>
+                            <p class="menu-item-desc">0,25l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dIcedTea">Ledeni čaj</h3>
+                            <p class="menu-item-desc">0,25l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dSchweppes">Schweppes</h3>
+                            <p class="menu-item-desc" data-i18n="dSchweppesDesc">Tonic/ Bitter Lemon (0,25l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCedevita">Cedevita</h3>
+                            <p class="menu-item-desc" data-i18n="dCedevitaDesc">limona / pomaranča</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,00</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dRadenska">Radenska</h3>
+                            <p class="menu-item-desc" data-i18n="dRadenskaDesc">Classic / Naturell</p>
+                        </div>
+                        <span class="menu-item-price">€ 1,50 / € 3,20 / € 5,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dFlavoredWater">Voda z okusom</h3>
+                            <p class="menu-item-desc">0,5l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dJuice">Sok</h3>
+                            <p class="menu-item-desc" data-i18n="dJuiceDesc">jabolčni / pomarančni</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80 / € 5,50</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dLemonade">Sveža limonada</h3>
+                            <p class="menu-item-desc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 4,00</span>
+                    </div>
+<div class="menu-item" data-category="pijace">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dWater">Postrežba vode</h3>
+                            <p class="menu-item-desc"></p>
+                        </div>
+                        <span class="menu-item-price">€ 1,00</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_topli">TOPLI NAPITKI</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dEspresso">Espresso</h3>
+                        </div>
+                        <span class="menu-item-price">€ 1,70</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dEspressoDouble">Espresso dvojni</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,50</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCoffeeLong">Podaljšana kava</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,10</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCoffeeMilk">Podaljšana kava z mlekom ali smetano</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,40</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dCappuccino">Cappuccino</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,40</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dLatte">Latte Macchiato</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,70</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dIrish">Irish Coffee</h3>
+                            <p class="menu-item-desc" data-i18n="dIrishDesc">Kava z 4 cl viskija in stepeno smetano.</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,90</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dTea">Čaj z limono</h3>
+                            <p class="menu-item-desc" data-i18n="dTeaDesc">različni okusi</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,10</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dHotChoco">Vroča čokolada</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="topli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="dMulledWine">Kuhano vino</h3>
+                            <p class="menu-item-desc" data-i18n="dMulledWineDesc">belo ali rdeče</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,40</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_pivo">PIVO</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bLaskoDraft">Laško točeno</h3>
+                        </div>
+                        <span class="menu-item-price">€ 1,90 / € 2,70 / € 3,60</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bLaskoDark">Laško temno</h3>
+                            <p class="menu-item-desc">0,50l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,60</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bLaskoZero">Laško 0,0</h3>
+                            <p class="menu-item-desc">0,50l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bUnionZero">Union - brezalkoholno</h3>
+                            <p class="menu-item-desc">0,50l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bUnionRadler">Union Radler</h3>
+                            <p class="menu-item-desc">Isotonic / Grapefruit (0,50l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,40</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bNiksicko">Nikšićko</h3>
+                            <p class="menu-item-desc" data-i18n="bNiksickoDesc">Črna Gora (0,33l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bJelen">Jelen</h3>
+                            <p class="menu-item-desc" data-i18n="bJelenDesc">Srbija (0,33l / 0,50l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80 / € 3,60</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bOzujsko">Ožujsko</h3>
+                            <p class="menu-item-desc" data-i18n="bOzujskoDesc">Hrvaška (0,33l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bHeinekenZero">Heineken 0,0</h3>
+                            <p class="menu-item-desc">0,33l</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,40</span>
+                    </div>
+<div class="menu-item" data-category="pivo">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="bRadlerMix">Radler</h3>
+                            <p class="menu-item-desc" data-i18n="bRadlerMixDesc">0,25 l Laško točenega piva in 0,25 l Sprite.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,70</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_odprta_vina">ODPRTA VINA / HIŠNA IZBIRA</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="odprta-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="hwWhite">Belo vino - Cuvée</h3>
+                            <p class="menu-item-desc" data-i18n="hwWhiteDesc">Slovenija – sveže, harmonično in sadno.</p>
+                        </div>
+                        <span class="menu-item-price">€ 1,70 / € 7,50 / € 13,80</span>
+                    </div>
+<div class="menu-item" data-category="odprta-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="hwSpritzer">Špricer</h3>
+                            <p class="menu-item-desc">0,20l</p>
+                        </div>
+                        <span class="menu-item-price">€ 1,80</span>
+                    </div>
+<div class="menu-item" data-category="odprta-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="hwRed">Rdeče vino - Vranec</h3>
+                            <p class="menu-item-desc" data-i18n="hwRedDesc">Severna Makedonija – suho, elegantno.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,90 / € 8,50 / € 16,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_bela_vina">BELA VINA</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="bela-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="wwTraminec">Traminec</h3>
+                            <p class="menu-item-desc" data-i18n="wwTraminecDesc">polsuho</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,40 / € 22,50</span>
+                    </div>
+<div class="menu-item" data-category="bela-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="wwMuskat">Rumeni muškat</h3>
+                            <p class="menu-item-desc" data-i18n="wwMuskatDesc">polsuho</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20 / € 21,50</span>
+                    </div>
+<div class="menu-item" data-category="bela-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="wwRizling">Renski rizling</h3>
+                            <p class="menu-item-desc" data-i18n="wwRizlingDesc">suho</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80 / € 18,50</span>
+                    </div>
+<div class="menu-item" data-category="bela-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="wwPinot">Sivi pino</h3>
+                            <p class="menu-item-desc" data-i18n="wwPinotDesc">suho</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80 / € 18,50</span>
+                    </div>
+<div class="menu-item" data-category="bela-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="wwChard">Chardonnay</h3>
+                            <p class="menu-item-desc" data-i18n="wwChardDesc">suho</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,80 / € 18,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_rdeca_vina">RDEČA VINA / ROSÉ</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="rdeca-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="rwCuvee">Afrodiziak - Cuvée</h3>
+                            <p class="menu-item-desc" data-i18n="rwCuveeDesc">suho, elegantno. Vranec, Merlot, Cabernet Sauvignon</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20 / € 19,80</span>
+                    </div>
+<div class="menu-item" data-category="rdeca-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="rwRefosk">Sladki refošk</h3>
+                            <p class="menu-item-desc" data-i18n="rwRefoskDesc">sladko, mehko in sadno</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,50 / € 22,50</span>
+                    </div>
+<div class="menu-item" data-category="rdeca-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="rwRose">Rosé</h3>
+                            <p class="menu-item-desc" data-i18n="rwRoseDesc">suho, sveže</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,00 / € 18,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_penine">PENINE</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="penine">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="spSilver">Srebrna</h3>
+                            <p class="menu-item-desc" data-i18n="spSilverDesc">suha, fino perlasta in elegantna</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,80 / € 24,50</span>
+                    </div>
+<div class="menu-item" data-category="penine">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="spRose">Rosé</h3>
+                            <p class="menu-item-desc" data-i18n="spRoseDesc">sadna, harmonična in osvežujoča</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,00 / € 25,50</span>
+                    </div>
+<div class="menu-item" data-category="penine">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="spMuskat">Muškatna</h3>
+                            <p class="menu-item-desc" data-i18n="spMuskatDesc">aromatična in sladkasta, dišeča ter rahlo igriva</p>
+                        </div>
+                        <span class="menu-item-price">€ 4,20 / € 26,50</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_koktajli">KOKTAJLI</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="koktajli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="cSpritz">Aperol Spritz</h3>
+                            <p class="menu-item-desc" data-i18n="cSpritzDesc">Aperol, prosecco in pridih pomaranče – svež, rahlo grenak in poletno lahkoten.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+<div class="menu-item" data-category="koktajli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="cFizz">Gin Fizz</h3>
+                            <p class="menu-item-desc" data-i18n="cFizzDesc">Gin, limona in soda – živahen, čist in osvežujoč.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+<div class="menu-item" data-category="koktajli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="cTonic">Gin Tonic</h3>
+                            <p class="menu-item-desc" data-i18n="cTonicDesc">Gin s tonikom in svežo noto citrusov – klasičen in uravnotežen.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+<div class="menu-item" data-category="koktajli">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="cVodka">Vodka Bitter Lemon</h3>
+                            <p class="menu-item-desc" data-i18n="cVodkaDesc">Vodka z Bitter Lemon – prijetno grenak in osvežujoč.</p>
+                        </div>
+                        <span class="menu-item-price">€ 6,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_zgane">ŽGANE PIJAČE</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sMaraska">Šljivovica Maraska</h3>
+                            <p class="menu-item-desc" data-i18n="sMaraskaDesc">Slivovo žganje iz Zadra.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,40 / € 3,20</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sBadel">Šljivovica Badel</h3>
+                            <p class="menu-item-desc" data-i18n="sBadelDesc">Slivovo žganje iz Zagreba.</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,70 / € 3,60</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sSamar">Rakija Šamar</h3>
+                            <p class="menu-item-desc" data-i18n="sSamarDesc">Tradicionalno žganje iz slive in kutine – mehko in značilnega okusa.</p>
+                        </div>
+                        <span class="menu-item-price">€ 3,20 / € 4,20</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sPear">Hruškovec</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,90</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sPola">Pola-Pola</h3>
+                            <p class="menu-item-desc" data-i18n="sPolaDesc">Pol šljivovice / pol hruškovca</p>
+                        </div>
+                        <span class="menu-item-price">€ 2,50 / € 4,00</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sPelinkovac">Pelinkovec</h3>
+                        </div>
+                        <span class="menu-item-price">€ 4,00</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sTito">TITO – zeliščni liker</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sTravarica">Travarica</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sBlueberry">Borovničevec</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sViljamovka">Viljamovka</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,50</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sWalnut">Orehovec - čokoladni</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,90</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sMint">Mentolov liker</h3>
+                        </div>
+                        <span class="menu-item-price">€ 2,70</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sWhisky">Ballantine’s - Whisky</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,60</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sJager">Jägermeister</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,90</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sVodka">Vodka</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,30</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sGin">Gin</h3>
+                        </div>
+                        <span class="menu-item-price">€ 4,50</span>
+                    </div>
+<div class="menu-item" data-category="zgane">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="sCynar">Cynar</h3>
+                        </div>
+                        <span class="menu-item-price">€ 3,90</span>
+                    </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_premium_rakije">PREMIUM RAKIJE <span style="font-size: 1rem; display: block; margin-top: 0.5rem; text-transform: none; color: #fff;">By Rakija Bar</span></h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prZelja5">Šljivovica Želja 5</h3>
+                    <p class="menu-item-desc" data-i18n="prZelja5Desc">Slivovo žganje, pridobljeno z dvojno destilacijo in mešanjem lokalnih sort sliv Čačanska rodna in Čačanska lepotica. Starano pet let v hrastovem sodu.</p>
+                </div>
+                <span class="menu-item-price">€ 5,10</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prZelja7">Šljivovica Premium Želja 7</h3>
+                    <p class="menu-item-desc" data-i18n="prZelja7Desc">Slivovo žganje, pridobljeno z dvojno destilacijo in mešanjem lokalnih sort sliv Čačanska rodna in Čačanska lepotica. Starano sedem let v hrastovem sodu.</p>
+                </div>
+                <span class="menu-item-price">€ 7,20</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prZelja12">Šljivovica Premium Želja 12</h3>
+                    <p class="menu-item-desc" data-i18n="prZelja12Desc">Slivovka, pridobljena z dvojno destilacijo in mešanjem sort sliv Čačanska rodna, Požegača in Crvena ranka. Starano 12 let v hrastovem sodu.</p>
+                </div>
+                <span class="menu-item-price">€ 12,60</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prPotpis">Potpis Šljivovica 05</h3>
+                    <p class="menu-item-desc" data-i18n="prPotpisDesc">Slivovka, pridobljena z dvojno destilacijo v klasičnih 500l bakrenih kotlih. Sortiment - Crvena ranka, Čačanska lepotica in Čačanska rodna. 5 let zorjeno v srbskem hrastu.</p>
+                </div>
+                <span class="menu-item-price">€ 4,20</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prKrneta">Krneta Šljiva</h3>
+                    <p class="menu-item-desc" data-i18n="prKrnetaDesc">Modra, močna in privlačna. Poln okus zrelih sliv in najlepših aromatičnih not. S skrbno obdelavo sadja je ohranjena najboljša kakovost in esenca popolnega sadnega okusa.</p>
+                </div>
+                <span class="menu-item-price">€ 4,20</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prAlchymia">Rakija od šljive Alchymia</h3>
+                    <p class="menu-item-desc" data-i18n="prAlchymiaDesc">“Prepečnica šljivovica”, zorjena v hrastovem sodu iz domačega hrasta. Narejeno iz lokalnih sort sliv Čačanske rodne, Čačanske lepotice in Crvene ranke. Brez dodatkov, 100% naravna slivovka.</p>
+                </div>
+                <span class="menu-item-price">€ 3,90</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prOrnament">Ornament rakija od šljive</h3>
+                    <p class="menu-item-desc" data-i18n="prOrnamentDesc">Ornament slivovka je jantarne barve, ki je značilna za izkušene destilate, zorene v hrastovih sodih. Ta proces zorenja destilatov obogati prevladujoč vonj in okus sliv s celo paleto pikantnih in rustikalnih not, ki jih pridobijo z mešanjem destilatov, starih od 4 do 18 let.</p>
+                </div>
+                <span class="menu-item-price">€ 4,20</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prPremiumRakija">Šljiva Premium Rakija</h3>
+                    <p class="menu-item-desc" data-i18n="prPremiumRakijaDesc">Žganje, pridelano na tradicionalen način, z dvojno destilacijo zrelih plodov sliv iz lastnih sadovnjakov. Starano 5 let v sodih iz srbskega hrasta. Izrazita aroma kokosa, vanilije, dima, karamele. Po okusu spominja na sledove temne čokolade.</p>
+                </div>
+                <span class="menu-item-price">€ 4,20</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prZdanje">Zdanje Šljiva</h3>
+                    <p class="menu-item-desc" data-i18n="prZdanjeDesc">Slivovka Zdanje, stara 20 let, je izjemno specifična in bogata pijača, ki nosi v sebi globoko tradicijo in značilen pečat časa. Izžareva globok in bogat okus z notami zrelih sliv, vanilije, hrasta in blagimi pikantnimi toni.</p>
+                </div>
+                <span class="menu-item-price">€ 5,10</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prGorda">Gorda šljiva</h3>
+                    <p class="menu-item-desc" data-i18n="prGordaDesc">Vrhunsko slivovo žganje narejeno iz ročno obranih sliv iz lastnih nasadov in 7 let starano v hrastovih sodih. Izrazito jantarne barve, ki ga pridobi v toku zorenja v hrastovih sodih. Aroma suhe slive, blago pražene kave, vanilije in marcipana. Polnega okusa, ki spominja na rahlo praženo kavo, kakav in citruse.</p>
+                </div>
+                <span class="menu-item-price">€ 4,50</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prZavet">Zavet 5</h3>
+                    <p class="menu-item-desc" data-i18n="prZavetDesc">Pridobljena z destilacijo tradicionalnih sort sliv. Znan okus in aroma dodatno oplemenjena s petletnim staranjem v hrastovem sodu. Svetlo olivno zelene barve. Polnega harmoničnega okusa, zmerne arome, pitna in blaga.</p>
+                </div>
+                <span class="menu-item-price">€ 5,10</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prHubert">Hubert Šljiva barrique</h3>
+                    <p class="menu-item-desc" data-i18n="prHubertDesc">Slivovo žganje jantarne barve s prefinjeno cvetlično in vanilijevo aromo. Pridelano iz najboljših sort sliv na tradicionalen način, v bakrenih kotlih z dvojno destilacijo, po starem, preverjenem družinskem receptu. Poln sadni okus z izrazitimi tanini iz hrastovega soda, v katerem je starano najmanj 3 leta.</p>
+                </div>
+                <span class="menu-item-price">€ 3,90</span>
+            </div>
+            <div class="menu-item" data-category="premium-rakije">
+                <div class="menu-item-info">
+                    <h3 class="menu-item-title" data-i18n="prGZ">Gružanska Nit</h3>
+                    <p class="menu-item-desc" data-i18n="prGZDesc">Žganje je narejeno iz izbranih sort sliv iz lastnih nasadov. Narejeno po tradicionalnem postopku destilacije. Starano v hrastovih sodih 3 leta, kar da izjemno aromo in okus.</p>
+                </div>
+                <span class="menu-item-price">€ 3,60</span>
+            </div>
+        </div>
+        
+        <h2 style="text-align: center; color: var(--gold); margin: 3rem 0 1.5rem 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid rgba(212, 175, 55, 0.2); padding-bottom: 1.5rem;" data-i18n="cat_izbrana_vina">IZBRANA VINA</h2>
+        <div class="drinks-grid" style="">
+            <div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swPinotBlanc">Pinot Blanc - Zvonko Bogdan (Srbija)</h3>
+                            <p class="menu-item-desc" data-i18n="swPinotBlancDesc">Sočno, sadno in bogato s kompleksno aromo. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 42,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swSauvBlanc">Sauvignon Blanc - Zvonko Bogdan (Srbija)</h3>
+                            <p class="menu-item-desc" data-i18n="swSauvBlancDesc">Sveže, igrivo s citrusno sadnostjo, zelišči in mineralnim pridihom. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 28,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swTemnjanika">Temnjanika - Chateau Kamnik (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swTemnjanikaDesc">Aromatično z vonjem breskve in cvetja ter svežim, sadnim zaključkom. (polsuho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 27,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swChardBarrel">Chardonnay Barrel Fermented - Chateau Kamnik (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swChardBarrelDesc">Korpulentno z izrazitimi barrique notami, zorjeno v francoskem hrastu, polnega telesa in bogatega značaja. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 54,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swAlexWhite">Alexandria Premium White Cuvée - Tikveš (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swAlexWhiteDesc">Elegantna zvrst iz izbranih belih sort iz sončne doline Tikveš. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 27,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swRoseSec">Rosé Sec - Zvonko Bogdan (Srbija)</h3>
+                            <p class="menu-item-desc" data-i18n="swRoseSecDesc">Sočno, sadno in bogato s kompleksno aromo. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 27,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swAlexRose">Alexandria Premium Cuvée Rosé - Tikveš (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swAlexRoseDesc">Elegantna zvrst iz izbranih belih sort iz sončne doline Tikveš. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 27,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swCuvee1">Cuvee No.1 - Zvonko Bogdan (Srbija)</h3>
+                            <p class="menu-item-desc" data-i18n="swCuvee1Desc">Trikrat zapored z zlatom na Decanter WWA, najprestižnejšem mednarodnem vinskem priznanju, nagrajena kompleksna zvrst z aromami robid, črnega ribeza in češenj ter dolgim, elegantnim zaključkom. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 42,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swSyrah">Ten Barrels Syrah - Chateau Kamnik (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swSyrahDesc">Kompleksen in uravnotežen syrah z aromami robidnic, začimb in čokolade, dolgim pookusom ter večkrat nagrajen na mednarodnih tekmovanjih. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 95,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swBabuna">Babuna - Tikveš (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swBabunaDesc">Drzno, sadno rdeče iz sort Plavec, Vranec in Shiraz z aromami robide, češnje in slive ter polnim, harmoničnim okusom z dolgim sočnim zaključkom. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 39,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swAlexRed">Alexandria Premium Red Cuvée - Tikveš (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swAlexRedDesc">Prefinjen rdeči cuvée razkriva bogate note robidnic, višenj in sliv, prepletene z začimbami in rahlo vaniljo, ter očara z mehko, žametno strukturo in dolgim, toplim zaključkom. (suho - 0,75 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 28,00</span>
+                    </div>
+<div class="menu-item" data-category="izbrana-vina">
+                        <div class="menu-item-info">
+                            <h3 class="menu-item-title" data-i18n="swPrestige">Cuvée de Prestige MAGNUM - Chateau Kamnik (S. Makedonija)</h3>
+                            <p class="menu-item-desc" data-i18n="swPrestigeDesc">Izrazit rdeči cuvée v magnum steklenici, zorjen v hrastu, razkriva koncentrirane note temnega jagodičevja in začimb ter poln, žameten okus z dolgim, plemenitim zaključkom – popoln za 3–4 osebe in posebne priložnosti. (suho - 1,5 l)</p>
+                        </div>
+                        <span class="menu-item-price">€ 125,00</span>
+                    </div>
+        </div>
+        
+    </main>
+</body>
+
+</html>
